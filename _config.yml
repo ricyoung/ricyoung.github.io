@@ -34,8 +34,8 @@ orcid_username: 0000-0002-1109-7552
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
+- title: Download PDF
+  icon: fas fa-file-pdf
   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -88,7 +88,7 @@ content:
 
       - layout: left
         title: University of Nevada, Las Vegas
-        link: https://www.unlv.edu/nipm
+        link: https://www.unlv.edu/research
         # link_text: boringcompany.com
         sub_title: Genetic Data Researcher / Population Health
         caption: Nov 2014 - Current
@@ -96,8 +96,8 @@ content:
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
           • Analyzed genetic data and develop techniques for disease detection, gene expression, short reads, long reads and isoforms.
-          • Data mining from primary sources and conducting a comprehensive analysis using in-house software tools
-          • Designed databases (nosql) and custom programmed software to analyze significant data sources.
+          <br>• Data mining from primary sources and conducting a comprehensive analysis using in-house software tools
+          <br>• Designed databases (nosql) and custom programmed software to analyze significant data sources.
 
 
 
@@ -111,9 +111,17 @@ content:
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             • Architected and implemented analytics and visualization components for device data analysis platform to predict hardware
-            • Assess the effectiveness and accuracy of new data sources and data gathering techniques.
-            • Conduct data mining, data modeling, statistical analysis, business intelligence gathering, trending and benchmarking.
+            <br>• Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+            <br>• Conduct data mining, data modeling, statistical analysis, business intelligence gathering, trending and benchmarking.
 
+
+
+      - layout: top-middle
+        title: Past Experience
+        sub_title:  State of Nevada System Computing , Layne & Associates LTD
+        # link: https://www.unlv.edu/nipm
+        # link_text: boringcompany.com
+        caption: <mark>Computer Network Technician II</mark> - <mark>Assistant Director of MIS</mark> - <mark>Director of Training</mark>
 
 
 
@@ -122,9 +130,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: University of Nevada, Las Vegas
+        sub_title: University of Nevada, Las Vegas
         caption: 2021 - Current
-        sub_title: Ph.D Neuroscience (Computional)
+        title: Ph.D Neuroscience <small>(Computional)</small>
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -134,9 +142,9 @@ content:
 
 
       - layout: left
-        title: University of Nevada, Las Vegas
+        sub_title: University of Nevada, Las Vegas
         caption: 2021 - Current
-        sub_title: Masters Data Analytics
+        title: Masters Data Analytics <small> (Health Care Informatics) </small>
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -147,9 +155,9 @@ content:
 
 
       - layout: left
-        title: University of Nevada, Las Vegas
+        sub_title: University of Nevada, Las Vegas
         caption: 2013 - 2018
-        sub_title: Magna Cum Laude - Psychology & Latin Honors & Neuroscience & Information Technology
+        title: Magna Cum Laude <br>Psychology <br><small>Latin Honors <br> Neuroscience  <br>Information Technology</small>
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -157,26 +165,10 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-
-
-
       - layout: left
-        title: University of Nevada, Las Vegas
-        caption: 2013 - 2018
-        sub_title: Magna Cum Laude - Psychology & Latin Honors & Neuroscience & Information Technology
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-
-
-      - layout: left
-        title: College of Southern Nevada
-        caption: 2000
-        sub_title: Applied Sciences
+        sub_title: College of Southern Nevada
+        caption: 2003
+        title: Applied Sciences
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -223,56 +215,35 @@ content:
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
 
-
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-
-
-
-
-
   - title: Papers |  Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
+
+
       - layout: top-middle
-        title: Association of telomeres and telomerase with clinical outcomes in children with acute lymphoblastic leukemia a review of literature
+        title: (IP) 30-day Readmission Rate for Congestive Heart Failure Discharges and Reasons for Readmission
         # link: https://epostersonline.com/ons2016/node/111
-        # sub_title: 2015
+        sub_title: 2022
         # link_text: Project Website
-        additional_links:
-          - title:  Genetics
-            icon: fab  fa-dna
-            url: https://epostersonline.com/ons2016/node/111
+        # additional_links:
+        #   - title:  Genetics
+        #     icon: fab  fa-dna
+        #     url: https://epostersonline.com/ons2016/node/111
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Acute Lymphoblastic Leukemia (ALL) is the most common pediatric cancer.Telomere plays a key role in cancer development through impairment of chromosome stability.The purpose of this study was to report the current state of science of the role of telomeres and telomerase in children with ALL.
+          Heart failure is the most common admitting diagnosis in patients over the age of 65.  Heart failure present an enormous economic burden and increasing risk to the aging population. Heart failure is directly associated with increased morbidity and also effects mental health such as depression.
+
+
 
 
       - layout:  top-middle
-        title: Natural variability of minimotifs in 1092 people indicates that minimotifs are targets of evolution
+        title: Thesis (Honors) - Diversity of Minimotifs in human traits and disease.
         # link: https://academic.oup.com/nar/article/43/13/6399/2414244
-        # sub_title: 2016
+        sub_title: 2019
         # link_text: Project Website
         additional_links:
           - title:  Minimotifs
@@ -284,41 +255,89 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-         Since the function of a short contiguous peptide minimotif can be introduced or eliminated by a single point mutation, these functional elements may be a source of human variation and a target of selection. We analyzed the variability of ∼300 000 minimotifs in 1092 human genomes from the 1000 Genomes Project.
+          Minimotifs are vital for normal cell functions and will help bridge the gap between what has changed in an SNP and why that change is important. Understanding SNP effects on minimotifs and the resulting change in function could explain phenotypical changes seen in disease. The resulting intersection of the two domains found 879 results in which a minimotif plays a role in an SNP change. The *879 results* can be further analyzed to show that 189 Distinct Strongest Risk Alleles and 150 distinct SNPs were uncovered.
 
 
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+
+      - layout:  top-middle
+        title: 2018 Minimotifs Dysfunction is Pervasive in Neurodegenerative Disorders
+        # link: https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1016/j.trci.2018.06.005
+        sub_title: 2018
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  Minimotifs
             icon: fab fa-book-medical
-            url: github.com/sproogen/modern-resume-theme
+            url: https://academic.oup.com/nar/article/43/13/6399/2414244
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        # description: | # this will include new lines to allow paragraphs
+        #  Since the function of a short contiguous peptide minimotif can be introduced or eliminated by a single point mutation, these functional elements may be a source of human variation and a target of selection. We analyzed the variability of ∼300 000 minimotifs in 1092 human genomes from the 1000 Genomes Project.
+
+
+
+
+
+      - layout:  top-middle
+        title: Minimotif Miner 4 a million peptide minimotifs and counting.
+        # link: https://academic.oup.com/nar/issue/46/D1
+        sub_title: 2016
+        # link_text: Project Website
+        additional_links:
+          - title:  Minimotifs
+            icon: fab fa-book-medical
+            url: https://academic.oup.com/nar/article/43/13/6399/2414244
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        # description: | # this will include new lines to allow paragraphs
+        #  Since the function of a short contiguous peptide minimotif can be introduced or eliminated by a single point mutation, these functional elements may be a source of human variation and a target of selection. We analyzed the variability of ∼300 000 minimotifs in 1092 human genomes from the 1000 Genomes Project.
+
+
+
+
+      - layout:  top-middle
+        title: Natural variability of minimotifs in 1092 people indicates that minimotifs are targets of evolution
+        # link: https://academic.oup.com/nar/article/43/13/6399/2414244
+        sub_title: 2015
+        # link_text: Project Website
+        additional_links:
+          - title:  Minimotifs
+            icon: fab fa-book-medical
+            url: https://academic.oup.com/nar/article/43/13/6399/2414244
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        # description: | # this will include new lines to allow paragraphs
+        #  Since the function of a short contiguous peptide minimotif can be introduced or eliminated by a single point mutation, these functional elements may be a source of human variation and a target of selection. We analyzed the variability of ∼300 000 minimotifs in 1092 human genomes from the 1000 Genomes Project.
+
+
+
+      - layout:  top-middle
+        title: Association of telomeres and telomerase with clinical outcomes in children with acute lymphoblastic leukemia a review of literature.
+        # link: https://academic.oup.com/nar/article/43/13/6399/2414244
+        sub_title: 2016
+        # link_text: Project Website
+        additional_links:
+          - title:  Minimotifs
+            icon: fab fa-book-medical
+            url: https://academic.oup.com/nar/article/43/13/6399/2414244
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        # description: | # this will include new lines to allow paragraphs
+        #  Since the function of a short contiguous peptide minimotif can be introduced or eliminated by a single point mutation, these functional elements may be a source of human variation and a target of selection. We analyzed the variability of ∼300 000 minimotifs in 1092 human genomes from the 1000 Genomes Project.
+
+
+
 
 
 
@@ -341,8 +360,114 @@ content:
 
 
 
+  - title:  Profressional Membership # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
 
-  - title: Membership | Licenses | Certifications # Title for the section
+
+
+      - layout: left # ACMG
+        title: American College of Medical Genetics
+        icon: fab fa-binary-lock
+        sub_title: 2016
+        #link: github.com/sproogen
+        # link_text: Project Website
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        # description: | # this will include new lines to allow paragraphs
+        #   I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+
+
+      - layout: left #AMIA
+        title: American Medical Informatics Association
+        #link: github.com/sproogen
+        link_text: Aug 2020
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+        #   # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   #   icon: fab fa-github
+        #   #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        # description: | # this will include new lines to allow paragraphs
+        #   I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+
+      - layout: left
+        title: Architecting on AWS
+        #link: github.com/sproogen
+        link_text: Aug 2020
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+        #   # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   #   icon: fab fa-github
+        #   #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        # description: | # this will include new lines to allow paragraphs
+        #   I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+
+
+      - layout: left
+        title: Sciex - capillary electrophoresis
+        #link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          # - title:  sproogen/modern-resume-theme
+          #   icon: fab fa-github
+          #   url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+        #   #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        # description: | # this will include new lines to allow paragraphs
+        #   I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+
+
+      - layout: right
+        title: Citi Training
+       # link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          OptumLabs and University of Nevada, Las Vegas, NIH require CITI Training
+        description: | # this will include new lines to allow paragraphs
+          Biomedical Research
+          Biomedical Responsible Conduct of Research
+          Conflicts of interests
+          GCP - Social and Behavioral Research Best Practices for Clinicial Research
+          Public Health Reserach
+          Researchers
+          Group 1. Biomedical IRB Coruse
+          Artificial intelligence (AI) and Human Subject Protections
+          Export Control Training
+          Technology, Ethics, and Regulations
+
+
+
+
+  - title:  Licenses | Certifications # Title for the section
     layout: list # Type of content section (list/text)
     content:
 
@@ -448,6 +573,32 @@ content:
 
 
 
+
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Super awesome project
+        link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+
+
+
+
+
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -465,7 +616,7 @@ footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: ricyoung/ricyoung.github.io
 
 sass:
   sass_dir: _sass
