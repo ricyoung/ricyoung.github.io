@@ -228,6 +228,40 @@ content:
   - title: Papers |  Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: Association of telomeres and telomerase with clinical outcomes in children with acute lymphoblastic leukemia a review of literature
+        link: https://epostersonline.com/ons2016/node/111
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          Acute Lymphoblastic Leukemia (ALL) is the most common pediatric cancer.Telomere plays a key role in cancer development through impairment of chromosome stability.The purpose of this study was to report the current state of science of the role of telomeres and telomerase in children with ALL.
+
+
+      - layout: left
+        title: Natural variability of minimotifs in 1092 people indicates that minimotifs are targets of evolution
+        link: https://academic.oup.com/nar/article/43/13/6399/2414244
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+         Since the function of a short contiguous peptide minimotif can be introduced or eliminated by a single point mutation, these functional elements may be a source of human variation and a target of selection. We analyzed the variability of ∼300 000 minimotifs in 1092 human genomes from the 1000 Genomes Project.
+
+
       - layout: top-middle
         title: Super awesome project
         link: github.com/sproogen
@@ -243,6 +277,44 @@ content:
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+
+      - layout: top-middle
+        title: Super awesome project
+        link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+
+
+      - layout: top-middle
+        title: Super awesome project
+        link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+
+
 
   - title: Membership | Licenses | Certifications # Title for the section
     layout: list # Type of content section (list/text)
@@ -262,36 +334,10 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-
-      - layout: left
-        title: Citi Training
-       # link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          OptumLabs and University of Nevada, Las Vegas, NIH require CITI Training
-        description: | # this will include new lines to allow paragraphs
-          Biomedical Research
-          Biomedical Responsible Conduct of Research
-          Conflicts of interests
-          GCP - Social and Behavioral Research Best Practices for Clinicial Research
-          Public Health Reserach
-          Researchers
-          Group 1. Biomedical IRB Coruse
-          Artificial intelligence (AI) and Human Subject Protections
-          Export Control Training
-          Technology, Ethics, and Regulations
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        # description: | # this will include new lines to allow paragraphs
+        #   I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
 
 
@@ -346,6 +392,32 @@ content:
         # description: | # this will include new lines to allow paragraphs
         #   I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
+
+
+      - layout: right
+        title: Citi Training
+       # link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          OptumLabs and University of Nevada, Las Vegas, NIH require CITI Training
+        description: | # this will include new lines to allow paragraphs
+          Biomedical Research
+          Biomedical Responsible Conduct of Research
+          Conflicts of interests
+          GCP - Social and Behavioral Research Best Practices for Clinicial Research
+          Public Health Reserach
+          Researchers
+          Group 1. Biomedical IRB Coruse
+          Artificial intelligence (AI) and Human Subject Protections
+          Export Control Training
+          Technology, Ethics, and Regulations
 
 
 
