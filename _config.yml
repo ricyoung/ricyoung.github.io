@@ -107,8 +107,8 @@ content:
         title: University of Nevada, Las Vegas
         caption: 2021 - Current
         sub_title: Ph.D Neuroscience (Computional)
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
@@ -119,12 +119,26 @@ content:
         title: University of Nevada, Las Vegas
         caption: 2021 - Current
         sub_title: Masters Data Analytics
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+
+
+      - layout: left
+        title: University of Nevada, Las Vegas
+        caption: 2013 - 2018
+        sub_title: Magna Cum Laude - Psychology & Latin Honors & Neuroscience & Information Technology
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
 
 
 
@@ -141,26 +155,12 @@ content:
 
 
 
-
       - layout: left
-        title: University of Nevada, Las Vegas
-        caption: 2013 - 2018
-        sub_title: Magna Cum Laude - Psychology & Latin Honors & Neuroscience & Information Technology
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-
-
-      - layout: left
-        title: College of Sothern Nevadas
+        title: College of Southern Nevada
         caption: 2000
         sub_title: Applied Sciences
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
@@ -228,9 +228,10 @@ content:
   - title: Papers |  Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: Association of telomeres and telomerase with clinical outcomes in children with acute lymphoblastic leukemia a review of literature
         link: https://epostersonline.com/ons2016/node/111
+        sub_title: 2015
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -245,9 +246,10 @@ content:
           Acute Lymphoblastic Leukemia (ALL) is the most common pediatric cancer.Telomere plays a key role in cancer development through impairment of chromosome stability.The purpose of this study was to report the current state of science of the role of telomeres and telomerase in children with ALL.
 
 
-      - layout: left
+      - layout:  top-middle
         title: Natural variability of minimotifs in 1092 people indicates that minimotifs are targets of evolution
         link: https://academic.oup.com/nar/article/43/13/6399/2414244
+        sub_title: 2016
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -325,6 +327,7 @@ content:
       - layout: left
         title: Responsible Conduct of Research
         icon: fab fa-binary-lock
+        sub_title: 2016
         #link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
