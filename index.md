@@ -8,7 +8,7 @@ keywords: # Define keywords for search engines
 # Hero section
 hero:
     title: Richard J. Young
-    text: Data Scientist - Healthcare Informatics - Data Driven Change
+    text: Sr. Data Scientist - Healthcare Informatics - Data Driven Change
     background_image: # Paste image URL to display image in background of hero section
     buttons: # Add buttons below, there are examples with all available options
         - label: CV Download (pdf)
@@ -17,7 +17,7 @@ hero:
           style: filled # Choose style: "filled" or "bordered"
           icon: github # Choose from 266 icons in "Feather" icon set, list of all icons is available here - https://feathericons.com
 
-        - label: Button — Bordered with icon
+        - label: Linkedin
           url: /documentation
           external_url: false
           style: bordered
