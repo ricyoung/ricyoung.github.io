@@ -231,12 +231,12 @@ content:
       - layout: top-middle
         title: Association of telomeres and telomerase with clinical outcomes in children with acute lymphoblastic leukemia a review of literature
         link: https://epostersonline.com/ons2016/node/111
-        sub_title: 2015
+        # sub_title: 2015
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  Genetics
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: https://epostersonline.com/ons2016/node/111
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -249,12 +249,12 @@ content:
       - layout:  top-middle
         title: Natural variability of minimotifs in 1092 people indicates that minimotifs are targets of evolution
         link: https://academic.oup.com/nar/article/43/13/6399/2414244
-        sub_title: 2016
+        # sub_title: 2016
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  Minimotifs
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: https://academic.oup.com/nar/article/43/13/6399/2414244
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
