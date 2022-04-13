@@ -1,5 +1,8 @@
 # Site
-repository: sproogen/resume-theme
+# repository: sproogen/resume-theme
+repository: ricyoung/ricyoung.github.io
+
+
 favicon: images/favicon.ico
 
 # Content configuration version
