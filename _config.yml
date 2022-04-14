@@ -219,6 +219,26 @@ content:
 
 
       - layout: top-middle
+        title: (Technical Reviewer) Data Engineering with Alteryx
+        # link: https://epostersonline.com/ons2016/node/111
+        sub_title: 2022
+        # link_text: Project Website
+        # additional_links:
+        #   - title:  Genetics
+        #     icon: fab  fa-dna
+        #     url: https://epostersonline.com/ons2016/node/111
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          Heart failure is the most common admitting diagnosis in patients over the age of 65.  Heart failure present an enormous economic burden and increasing risk to the aging population. Heart failure is directly associated with increased morbidity and also effects mental health such as depression.
+
+
+
+
+      - layout: top-middle
         title: (IP) 30-day Readmission Rate for Congestive Heart Failure Discharges and Reasons for Readmission
         # link: https://epostersonline.com/ons2016/node/111
         sub_title: 2022
@@ -358,16 +378,16 @@ content:
 
 
 
-  - title:  Profressional Membership # Title for the section
+  - title:  Profressional Memberships # Title for the section
     layout: list # Type of content section (list/text)
     content:
 
 
 
-      - layout: left # ACMG
-        title: American College of Medical Genetics
+      - layout: top-middle # ACMG
+        sub_title: American College of Medical Genetics
         icon: fab fa-binary-lock
-        sub_title: 2016
+        # sub_title: 2016
         #link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
@@ -384,25 +404,8 @@ content:
 
 
 
-      - layout: left #AMIA
-        title: American Medical Informatics Association
-        #link: github.com/sproogen
-        link_text: Aug 2020
-        # additional_links:
-        #   - title:  sproogen/modern-resume-theme
-        #     icon: fab fa-github
-        #     url: github.com/sproogen/modern-resume-theme
-        #   # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #   #   icon: fab fa-github
-        #   #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        # description: | # this will include new lines to allow paragraphs
-        #   I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-
-      - layout: left
-        title: Architecting on AWS
+      - layout: top-middle #AMIA
+        sub_title: International Neuroinformatics Coordinating Facility
         #link: github.com/sproogen
         link_text: Aug 2020
         # additional_links:
@@ -419,16 +422,16 @@ content:
 
 
 
-      - layout: left
-        title: Sciex - capillary electrophoresis
+      - layout: top-middle #AMIA
+        sub_title: American Medical Informatics Association
         #link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          # - title:  sproogen/modern-resume-theme
-          #   icon: fab fa-github
-          #   url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
+        link_text: Aug 2020
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+        #   # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   #   icon: fab fa-github
         #   #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
@@ -437,30 +440,108 @@ content:
 
 
 
-      - layout: right
-        title: Citi Training
-       # link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          OptumLabs and University of Nevada, Las Vegas, NIH require CITI Training
-        description: | # this will include new lines to allow paragraphs
-          Biomedical Research
-          Biomedical Responsible Conduct of Research
-          Conflicts of interests
-          GCP - Social and Behavioral Research Best Practices for Clinicial Research
-          Public Health Reserach
-          Researchers
-          Group 1. Biomedical IRB Coruse
-          Artificial intelligence (AI) and Human Subject Protections
-          Export Control Training
-          Technology, Ethics, and Regulations
+
+
+      - layout: top-middle #AMIA
+        sub_title: American Medical Informatics Association
+        #link: github.com/sproogen
+        link_text: Aug 2020
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+        #   # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   #   icon: fab fa-github
+        #   #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        # description: | # this will include new lines to allow paragraphs
+        #   I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+
+
+
+
+
+      - layout: top-middle #AMIA
+        sub_title: American Statistical Association
+        #link: github.com/sproogen
+        # link_text: Aug 2020
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+        #   # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   #   icon: fab fa-github
+        #   #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        # description: | # this will include new lines to allow paragraphs
+        #   I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+
+
+
+      - layout: top-middle #AMIA
+        sub_title: Society for Neuroscience
+        #link: github.com/sproogen
+        # link_text: Aug 2020
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+        #   # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   #   icon: fab fa-github
+        #   #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        # description: | # this will include new lines to allow paragraphs
+        #   I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+
+
+
+
+      - layout: top-middle #AMIA
+        sub_title: American Society of Human Genetics
+        #link: https://www.ashg.org/
+        link_text: Aug 2020
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+        #   # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   #   icon: fab fa-github
+        #   #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        # description: | # this will include new lines to allow paragraphs
+        #   I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+
+
+
+
+
+
+      - layout: top-middle #AMIA
+        sub_title: American Medical Informatics Association
+        #link: github.com/sproogen
+        link_text: Aug 2020
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+        #   # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   #   icon: fab fa-github
+        #   #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        # description: | # this will include new lines to allow paragraphs
+        #   I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+
+
 
 
 
