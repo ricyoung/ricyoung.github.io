@@ -37,8 +37,8 @@ additional_links:
 - title: Download PDF
   icon: fas fa-file-pdf
   url: https://www.dropbox.com/resume
-  
-  title: Summary Resume
+
+- title: Summary Resume
   icon: fas fa-sigma
   url: https://www.dropbox.com/resume
 
@@ -68,12 +68,12 @@ content:
         sub_title: Senior Data Scientist
         caption: March 2022 - Present
         quote:  Fusing Clinical Decision Support with multi data sources and multi lines of business to reduce cost and increase patients access to health care.
-          
+
         description:  # | this will include new lines to allow paragraphs
             <br>• Apply advanced statistical and predictive modeling techniques to data related to the optimization of healthcare and patient experiences
             <br>• Propose innovative new ways to look at problems using data, statistical analysis and machine learning
             <br>• Communicate findings, verbally, and visually, to senor leadership, business partners, and clients
-            <br>• Find out new data sources and verify integrity of data then fill gaps and improve models and business intellgenices 
+            <br>• Find out new data sources and verify integrity of data then fill gaps and improve models and business intellgenices
             <br>• Support business needs around analytics, predictive modeling, and business intelligence
             <br>• Provide on-going tracking and monitoring of performance of statistical models and recommend ongoing improvements to methods and algorithms
       - layout: left
@@ -85,8 +85,8 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: #|  this will include new lines to allow paragraphs
-            <br>• Anticipate business and industry trends using knowledge and education to understand how changes in technology will influence reporting, health delivery, and regulations. 
-            <br>• Simultaneously considers the multi-dimensional needs of a diverse group of clients and stakeholders to understand the data requirements, report better, and provide context when needed. 
+            <br>• Anticipate business and industry trends using knowledge and education to understand how changes in technology will influence reporting, health delivery, and regulations.
+            <br>• Simultaneously considers the multi-dimensional needs of a diverse group of clients and stakeholders to understand the data requirements, report better, and provide context when needed.
             <br>• Speak and act truthfully while respecting others' feelings, treats others the way in which they wish to be treated, and openly shares with others all the information they need.
             <br>• Focus on integrity above all else as the foundation for everything
             <br>• The technology requirements MSsql, Oracle DB, Netsmart, Netgen, Touchworks, ACM, ICM, Microstrategy Server, Tableau Server, Tableau Desktop, Excel, SSMS, SSRS, RDP, Altreyx, Power bi tools, python, Anaconda, prescriptive analytics, data wrangling, data visualization, and additional advanced data science tools.
@@ -108,7 +108,7 @@ content:
           <br>• Designed databases (nosql) and custom programmed software to analyze significant data sources.
           <br>• Work with Complance to ensure all protocals are created, followed, and audited.
 
-          
+
 
 
 
@@ -124,7 +124,7 @@ content:
             • Architected and implemented analytics and visualization components for device data analysis platform to predict hardware
             <br>• Assess the effectiveness and accuracy of new data sources and data gathering techniques.
             <br>• Conduct data mining, data modeling, statistical analysis, business intelligence gathering, trending and benchmarking.
-            <br>• Designed SuperComputers  & HPC for high perforamance computing. 
+            <br>• Designed SuperComputers  & HPC for high perforamance computing.
                 # News Release: https://cdn2.hubspot.net/hubfs/143457/docs/CaseStudy_UNLV_FINAL.pdf
 
       - layout: top-middle
@@ -163,8 +163,8 @@ content:
         sub_title: University of Nevada, Las Vegas
         caption: 2021 - Current
         title: Ph.D Neuroscience <small>(Computional)</small>
-        quote:  Advancing our understanding of Human Disease by using data, deep learning, computational neuroscience, and brain stimulation 
-        
+        quote:  Advancing our understanding of Human Disease by using data, deep learning, computational neuroscience, and brain stimulation
+
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
