@@ -371,21 +371,21 @@ content:
 
 
 
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project <hl>as a way </hl>if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+      # - layout: top-middle
+      #   title: Super awesome project
+      #   link: github.com/sproogen
+      #   # link_text: Project Website
+      #   additional_links:
+      #     - title:  sproogen/modern-resume-theme
+      #       icon: fab fa-github
+      #       url: github.com/sproogen/modern-resume-theme
+      #     # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+      #     #   icon: fab fa-github
+      #     #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+      #   quote: >
+      #     This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+      #   description: | # this will include new lines to allow paragraphs
+      #     I started this project <hl>as a way </hl>if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
 
 
@@ -562,11 +562,10 @@ content:
     content:
 
 
-
       - layout: left
         title: Responsible Conduct of Research
         icon: fab fa-binary-lock
-        sub_title: 2016
+        # sub_title: 2016
         #link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
@@ -640,48 +639,47 @@ content:
         title: Citi Training
        # link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           OptumLabs and University of Nevada, Las Vegas, NIH require CITI Training
         description: | # this will include new lines to allow paragraphs
-          Biomedical Research
-          Biomedical Responsible Conduct of Research
-          Conflicts of interests
-          GCP - Social and Behavioral Research Best Practices for Clinicial Research
-          Public Health Reserach
-          Researchers
-          Group 1. Biomedical IRB Coruse
-          Artificial intelligence (AI) and Human Subject Protections
-          Export Control Training
-          Technology, Ethics, and Regulations
+          <br> Biomedical Research
+          <br> Biomedical Responsible Conduct of Research
+          <br> Conflicts of interests
+          <br> GCP - Social and Behavioral Research Best Practices for Clinicial Research
+          <br> Public Health Reserach Researchers
+          <br> Group 1. Biomedical IRB Coruse
+          <br> Artificial intelligence (AI) and Human Subject Protections
+          <br> Export Control Training
+          <br> Technology, Ethics, and Regulations
 
 
 
 
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  # - title: Projects # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: top-middle
+  #       title: Super awesome project
+  #       link: github.com/sproogen
+  #       # link_text: Project Website
+  #       additional_links:
+  #         - title:  sproogen/modern-resume-theme
+  #           icon: fab fa-github
+  #           url: github.com/sproogen/modern-resume-theme
+  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #         #   icon: fab fa-github
+  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+  #       quote: >
+  #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  #       description: | # this will include new lines to allow paragraphs
+  #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
 
 
