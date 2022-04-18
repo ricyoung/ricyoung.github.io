@@ -76,7 +76,80 @@ content:
             <br>• Find out new data sources and verify integrity of data then fill gaps and improve models and business intellgenices 
             <br>• Support business needs around analytics, predictive modeling, and business intelligence
             <br>• Provide on-going tracking and monitoring of performance of statistical models and recommend ongoing improvements to methods and algorithms
-    
+      - layout: left
+        title: Optum
+        link: https://www.optum.com/
+        # link_text: boringcompany.com
+        sub_title: Data Scientist
+        caption: Aug 2018 - March 2022
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        # description: | # this will include new lines to allow paragraphs
+            <br>• Anticipate business and industry trends using knowledge and education to understand how changes in technology will influence reporting, health delivery, and regulations. 
+            <br>• Simultaneously considers the multi-dimensional needs of a diverse group of clients and stakeholders to understand the data requirements, report better, and provide context when needed. 
+            <br>• Speak and act truthfully while respecting others' feelings, treats others the way in which they wish to be treated, and openly shares with others all the information they need.
+            <br>• Focus on integrity above all else as the foundation for everything
+            <br>• The technology requirements MSsql, Oracle DB, Netsmart, Netgen, Touchworks, ACM, ICM, Microstrategy Server, Tableau Server, Tableau Desktop, Excel, SSMS, SSRS, RDP, Altreyx, Power bi tools, python, Anaconda, prescriptive analytics, data wrangling, data visualization, and additional advanced data science tools.
+
+
+
+
+      - layout: left
+        title: University of Nevada, Las Vegas
+        link: https://www.unlv.edu/research
+        # link_text: boringcompany.com
+        sub_title: Genetic Data Researcher / Population Health
+        caption: Nov 2014 - Current
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description:  # this will include new lines to allow paragraphs
+          <br>• Analyzed genetic data and develop techniques for disease detection, gene expression, short reads, long reads and isoforms.
+          <br>• Data mining from primary sources and conducting a comprehensive analysis using in-house software tools
+          <br>• Designed databases (nosql) and custom programmed software to analyze significant data sources.
+          <br>• Work with Complance to ensure all protocals are created, followed, and audited.
+
+          
+
+
+
+      - layout: left
+        title: Nevada Institute of Personalized Medicine
+        link: https://www.unlv.edu/nipm
+        # link_text: boringcompany.com
+        sub_title: Data Scientist
+        caption: Nov 2014 - Jun 2019
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description:  # this will include new lines to allow paragraphs
+            • Architected and implemented analytics and visualization components for device data analysis platform to predict hardware
+            <br>• Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+            <br>• Conduct data mining, data modeling, statistical analysis, business intelligence gathering, trending and benchmarking.
+            <br>• Designed SuperComputers / HPC for high perforamance computing. (https://cdn2.hubspot.net/hubfs/143457/docs/CaseStudy_UNLV_FINAL.pdf)
+
+      - layout: top-middle
+        title: Past Experience
+        sub_title:  State of Nevada System Computing , Layne & Associates LTD
+        # link: https://www.unlv.edu/nipm
+        # link_text: boringcompany.com
+        caption: <mark>Computer Network Technician II</mark> - <mark>Assistant Director of MIS</mark> - <mark>Director of Training</mark><br><br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
