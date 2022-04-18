@@ -67,7 +67,7 @@ content:
         # link_text: boringcompany.com
         sub_title: Senior Data Scientist
         caption: March 2022 - Present
-        quote: > Fusing Clinical Decision Support with multi data sources and multi lines of business to reduce cost and increase patients access to health care.
+        quote:  Fusing Clinical Decision Support with multi data sources and multi lines of business to reduce cost and increase patients access to health care.
           
         description: | # this will include new lines to allow paragraphs
             <br>• Apply advanced statistical and predictive modeling techniques to data related to the optimization of healthcare and patient experiences
