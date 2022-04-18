@@ -69,7 +69,7 @@ content:
         caption: March 2022 - Present
         quote:  Fusing Clinical Decision Support with multi data sources and multi lines of business to reduce cost and increase patients access to health care.
           
-        description: | # this will include new lines to allow paragraphs
+        description:  # | this will include new lines to allow paragraphs
             <br>• Apply advanced statistical and predictive modeling techniques to data related to the optimization of healthcare and patient experiences
             <br>• Propose innovative new ways to look at problems using data, statistical analysis and machine learning
             <br>• Communicate findings, verbally, and visually, to senor leadership, business partners, and clients
@@ -84,7 +84,7 @@ content:
         caption: Aug 2018 - March 2022
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        # description: | # this will include new lines to allow paragraphs
+        description: #|  this will include new lines to allow paragraphs
             <br>• Anticipate business and industry trends using knowledge and education to understand how changes in technology will influence reporting, health delivery, and regulations. 
             <br>• Simultaneously considers the multi-dimensional needs of a diverse group of clients and stakeholders to understand the data requirements, report better, and provide context when needed. 
             <br>• Speak and act truthfully while respecting others' feelings, treats others the way in which they wish to be treated, and openly shares with others all the information they need.
@@ -132,12 +132,6 @@ content:
         # link: https://www.unlv.edu/nipm
         # link_text: boringcompany.com
         caption: <mark>Computer Network Technician II</mark> - <mark>Assistant Director of MIS</mark> - <mark>Director of Training</mark><br><br><br><br>
-
-
-
-
-
-
 
 
 
