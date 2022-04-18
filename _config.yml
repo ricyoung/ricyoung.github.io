@@ -225,7 +225,7 @@ content:
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
 
-  - title: Papers |  Publications # Title for the section
+  - title: Selected Papers |  Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
 
@@ -291,7 +291,7 @@ content:
 
       - layout:  top-middle
         title: 2018 Minimotifs Dysfunction is Pervasive in Neurodegenerative Disorders
-        # link: https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1016/j.trci.2018.06.005
+        link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6139474/
         sub_title: 2018
         # link_text: Project Website
         additional_links:
@@ -303,8 +303,8 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        # description: | # this will include new lines to allow paragraphs
-        #  Since the function of a short contiguous peptide minimotif can be introduced or eliminated by a single point mutation, these functional elements may be a source of human variation and a target of selection. We analyzed the variability of ∼300 000 minimotifs in 1092 human genomes from the 1000 Genomes Project.
+        description: | # this will include new lines to allow paragraphs
+         Generalizing the importance of minimotifs in neurodegenerative diseases offers a new perspective for the future study of neurodegenerative mechanisms and the investigation of new therapeutics.
 
 
 
@@ -312,33 +312,32 @@ content:
 
       - layout:  top-middle
         title: Minimotif Miner 4 a million peptide minimotifs and counting.
-        # link: https://academic.oup.com/nar/issue/46/D1
+        link: https://pubmed.ncbi.nlm.nih.gov/29140456/
         sub_title: 2016
         # link_text: Project Website
         additional_links:
           - title:  Minimotifs
             icon: fab fa-book-medical
-            url: https://academic.oup.com/nar/article/43/13/6399/2414244
+            url: https://pubmed.ncbi.nlm.nih.gov/29140456/
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         # description: | # this will include new lines to allow paragraphs
-        #  Since the function of a short contiguous peptide minimotif can be introduced or eliminated by a single point mutation, these functional elements may be a source of human variation and a target of selection. We analyzed the variability of ∼300 000 minimotifs in 1092 human genomes from the 1000 Genomes Project.
-
+        #  Minimotif Miner (MnM) is a database and web system for analyzing short functional peptide motifs, termed minimotifs
 
 
 
       - layout:  top-middle
         title: Natural variability of minimotifs in 1092 people indicates that minimotifs are targets of evolution
-        # link: https://academic.oup.com/nar/article/43/13/6399/2414244
+        link: https://pubmed.ncbi.nlm.nih.gov/26068475/
         sub_title: 2015
         # link_text: Project Website
         additional_links:
           - title:  Minimotifs
             icon: fab fa-book-medical
-            url: https://academic.oup.com/nar/article/43/13/6399/2414244
+            url: https://pubmed.ncbi.nlm.nih.gov/26068475/
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
