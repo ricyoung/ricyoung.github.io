@@ -1,3 +1,6 @@
 # ricyoung.github.io
 
-My Resume.
+My Resume
+https://ricyoung.github.io/
+
+
