@@ -39,7 +39,7 @@ additional_links:
   url: https://www.dropbox.com/resume
 
 - title: Summary Resume
-  icon: fas fa-file-alt
+  icon: fas fa-timeline
   url: https://www.dropbox.com/resume
 
 # Google Analytics and Tag Manager
@@ -166,10 +166,7 @@ content:
         quote:  Advancing our understanding of Human Disease by using data, deep learning, computational neuroscience, and brain stimulation
 
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
+          Work between a few major projects in the field of computational neuroscience, the first is a deep learning model for the detection of  Alzheimer's disease's using OpenCV. The second is a computational model for the detection of Noval ISO Forms using PAC BIO long reads. Finally I am working on a brain stimulation model using tDCS and TMS in the brain.
 
       - layout: left
         sub_title: University of Nevada, Las Vegas
@@ -178,10 +175,7 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
+          Work on a variety of projects in the field of data analytics, including the development of a data mining tool for the detection of Parkinson's disease using Python, R, and SQL from Clinical trails in order to predict the drug therapy models in Clinical Trails.
 
 
       - layout: left
@@ -191,9 +185,13 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          Created a method to merge GWAS and minimotif data in order to better understand human diseases and snps.
+          <br> Additional projects:
+            - Public use of Steganography to encrypt data in large publically access images.
+            - Delivering a web application to allow users increase uptime and availability of data using AWS.
+            - Developed a NoSQL EMR database to store and analyze large amounts of data.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
 
       - layout: left
         sub_title: College of Southern Nevada
@@ -202,9 +200,7 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          - Student of the Year - out of 30,000 students
 
 
 
@@ -215,34 +211,48 @@ content:
         title: FreeCodeCamp
         caption: 2016 - 2017
         sub_title: Full Staack Web Developement, Computer Software Engineering
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        # description: | # this will include new lines to allow paragraphs
+        #   During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+        #   I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
       - layout: left
         title: Lambda Code School
         caption: 2017 - 2018
         sub_title: Python 3 and JS
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        # description: | # this will include new lines to allow paragraphs
+        #   During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+        #   I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
       - layout: left
         title: FastAI
         caption: 2019 - 2020
         sub_title: Python 3 and FastAI
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        # description: | # this will include new lines to allow paragraphs
+        #   During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+        #   I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+
+      - layout: left
+        title: Udemy
+        caption: 2015 - 2022
+        sub_title: Python 3, Pytorch, Tableau, ALteryx, Sckit-Learn, and more
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        # description: | # this will include new lines to allow paragraphs
+        #   During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+        #   I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+
 
 
   - title: Selected Papers |  Publications # Title for the section
@@ -305,7 +315,7 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Minimotifs are vital for normal cell functions and will help bridge the gap between what has changed in an SNP and why that change is important. Understanding SNP effects on minimotifs and the resulting change in function could explain phenotypical changes seen in disease. The resulting intersection of the two domains found 879 results in which a minimotif plays a role in an SNP change. The *879 results* can be further analyzed to show that 189 Distinct Strongest Risk Alleles and 150 distinct SNPs were uncovered.
+          Understanding SNP effects on minimotifs and the resulting change in function could explain phenotypical changes seen in disease. The resulting intersection of the two domains found 879 results in which a minimotif plays a role in an SNP change. The *879 results* can be further analyzed to show that 189 Distinct Strongest Risk Alleles and 150 distinct SNPs were uncovered.
 
 
 
@@ -332,7 +342,7 @@ content:
 
       - layout:  top-middle
         title: Minimotif Miner 4 a million peptide minimotifs and counting.
-        link: https://pubmed.ncbi.nlm.nih.gov/29140456/
+        # link: https://pubmed.ncbi.nlm.nih.gov/29140456/
         sub_title: 2016
         # link_text: Project Website
         additional_links:
@@ -344,8 +354,8 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        # description: | # this will include new lines to allow paragraphs
-        #  Minimotif Miner (MnM) is a database and web system for analyzing short functional peptide motifs, termed minimotifs
+        description: | # this will include new lines to allow paragraphs
+         Minimotif Miner (MnM) is a database and web system for analyzing short functional peptide motifs, termed minimotifs
 
 
 
@@ -363,8 +373,8 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        # description: | # this will include new lines to allow paragraphs
-        #  Since the function of a short contiguous peptide minimotif can be introduced or eliminated by a single point mutation, these functional elements may be a source of human variation and a target of selection. We analyzed the variability of ∼300 000 minimotifs in 1092 human genomes from the 1000 Genomes Project.
+        description: | # this will include new lines to allow paragraphs
+          Since the function of a short contiguous peptide minimotif can be introduced or eliminated by a single point mutation, these functional elements may be a source of human variation and a target of selection. We analyzed the variability of ∼300 000 minimotifs in 1092 human genomes from the 1000 Genomes Project.
 
 
 
@@ -382,10 +392,8 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        # description: | # this will include new lines to allow paragraphs
-        #  Since the function of a short contiguous peptide minimotif can be introduced or eliminated by a single point mutation, these functional elements may be a source of human variation and a target of selection. We analyzed the variability of ∼300 000 minimotifs in 1092 human genomes from the 1000 Genomes Project.
-
-
+        description: | # this will include new lines to allow paragraphs
+         Acute Lymphoblastic Leukemia (ALL) is the most common pediatric cancer.Telomere plays a key role in cancer development through impairment of chromosome stability.The purpose of this study was to report the current state of science of the role of telomeres and telomerase in children with ALL.
 
 
 
