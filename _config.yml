@@ -393,7 +393,7 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-         Acute Lymphoblastic Leukemia (ALL) is the most common pediatric cancer.Telomere plays a key role in cancer development through impairment of chromosome stability.The purpose of this study was to report the current state of science of the role of telomeres and telomerase in children with ALL.
+         Acute Lymphoblastic Leukemia (ALL) is the most common pediatric cancer. Telomere plays a key role in cancer development through impairment of chromosome stability.The purpose of this study was to report the current state of science of the role of telomeres and telomerase in children with ALL.
 
 
 
@@ -545,10 +545,10 @@ content:
         sub_title: American Society of Human Genetics
         #link: https://www.ashg.org/
         link_text: Aug 2020
-        # additional_links:
-        #   - title:  sproogen/modern-resume-theme
-        #     icon: fab fa-github
-        #     url: github.com/sproogen/modern-resume-theme
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
         #   # - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #   #   icon: fab fa-github
         #   #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -567,7 +567,8 @@ content:
 
 
 
-  - title:  Licenses | Certifications # Title for the section
+
+  - title:  <br><br>Licenses | Certifications # Title for the section
     layout: list # Type of content section (list/text)
     content:
 
@@ -645,7 +646,7 @@ content:
 
 
 
-      - layout: right
+      - layout: Left
         title: Citi Training
        # link: github.com/sproogen
         # link_text: Project Website
