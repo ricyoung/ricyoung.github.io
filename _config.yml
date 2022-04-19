@@ -301,7 +301,7 @@ content:
 
 
       - layout:  top-middle
-        title: Thesis (Honors) - Diversity of Minimotifs in human traits and disease.
+        title: Honors Thesis - Diversity of Minimotifs in human traits and disease.
         # link: https://academic.oup.com/nar/article/43/13/6399/2414244
         sub_title: 2019
         # link_text: Project Website
@@ -361,7 +361,7 @@ content:
 
       - layout:  top-middle
         title: Natural variability of minimotifs in 1092 people indicates that minimotifs are targets of evolution
-        link: https://pubmed.ncbi.nlm.nih.gov/26068475/
+        # link: https://pubmed.ncbi.nlm.nih.gov/26068475/
         sub_title: 2015
         # link_text: Project Website
         additional_links:
@@ -447,10 +447,10 @@ content:
         sub_title: International Neuroinformatics Coordinating Facility
         #link: github.com/sproogen
         link_text: Aug 2020
-        # additional_links:
-        #   - title:  sproogen/modern-resume-theme
-        #     icon: fab fa-github
-        #     url: github.com/sproogen/modern-resume-theme
+        additional_links:
+          - title:  International Neuroinformatics Coordinating Facility
+            icon: fab fa-github
+            url: https://www.incf.org/
         #   # - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #   #   icon: fab fa-github
         #   #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -465,11 +465,11 @@ content:
         sub_title: American Medical Informatics Association
         #link: github.com/sproogen
         link_text: Aug 2020
-        # additional_links:
-        #   - title:  sproogen/modern-resume-theme
-        #     icon: fab fa-github
-        #     url: github.com/sproogen/modern-resume-theme
-        #   # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        additional_links:
+          - title:  About AMIA
+            icon: fab fa-github
+            url: https://amia.org/about-amia
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #   #   icon: fab fa-github
         #   #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         # quote: >
@@ -502,14 +502,14 @@ content:
 
 
 
-      - layout: top-middle #AMIA
+      - layout: top-middle #Asa
         sub_title: American Statistical Association
         #link: github.com/sproogen
         # link_text: Aug 2020
-        # additional_links:
-        #   - title:  sproogen/modern-resume-theme
-        #     icon: fab fa-github
-        #     url: github.com/sproogen/modern-resume-theme
+        additional_links:
+          - title:  About ASA
+            icon: fab fa-github
+            url: https://www.amstat.org/about-asa
         #   # - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #   #   icon: fab fa-github
         #   #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
