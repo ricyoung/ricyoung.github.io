@@ -303,7 +303,7 @@ content:
       - layout:  top-middle
         title: Honors Thesis - Diversity of Minimotifs in human traits and disease.
         # link: https://academic.oup.com/nar/article/43/13/6399/2414244
-        sub_title: 2019
+        # sub_title: 2019
         # link_text: Project Website
         additional_links:
           - title:  Minimotifs
@@ -320,9 +320,9 @@ content:
 
 
       - layout:  top-middle
-        title: 2018 Minimotifs Dysfunction is Pervasive in Neurodegenerative Disorders
-        link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6139474/
-        sub_title: 2018
+        title: Minimotifs Dysfunction is Pervasive in Neurodegenerative Disorders
+        # link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6139474/
+        # sub_title: 2018
         # link_text: Project Website
         additional_links:
           - title:  Minimotifs
@@ -343,7 +343,7 @@ content:
       - layout:  top-middle
         title: Minimotif Miner 4 a million peptide minimotifs and counting.
         # link: https://pubmed.ncbi.nlm.nih.gov/29140456/
-        sub_title: 2016
+        # sub_title: 2016
         # link_text: Project Website
         additional_links:
           - title:  Minimotifs
@@ -362,11 +362,11 @@ content:
       - layout:  top-middle
         title: Natural variability of minimotifs in 1092 people indicates that minimotifs are targets of evolution
         # link: https://pubmed.ncbi.nlm.nih.gov/26068475/
-        sub_title: 2015
+        # sub_title: 2015
         # link_text: Project Website
         additional_links:
           - title:  Minimotifs
-            icon: fab fa-book-medical
+            icon: fab fa-arrows-down-to-people
             url: https://pubmed.ncbi.nlm.nih.gov/26068475/
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
@@ -381,11 +381,11 @@ content:
       - layout:  top-middle
         title: Association of telomeres and telomerase with clinical outcomes in children with acute lymphoblastic leukemia a review of literature.
         # link: https://academic.oup.com/nar/article/43/13/6399/2414244
-        sub_title: 2016
+        # sub_title: 2016
         # link_text: Project Website
         additional_links:
           - title:  Minimotifs
-            icon: fab fa-book-medical
+            icon: fab fa-children
             url: https://academic.oup.com/nar/article/43/13/6399/2414244
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
@@ -504,11 +504,11 @@ content:
 
       - layout: top-middle #Asa
         sub_title: American Statistical Association
-        #link: github.com/sproogen
-        # link_text: Aug 2020
+        link: https://www.amstat.org/about-asa
+        link_text: About the ASA
         additional_links:
           - title:  About ASA
-            icon: fab fa-github
+            icon: fab fa-timeline
             url: https://www.amstat.org/about-asa
         #   # - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #   #   icon: fab fa-github
@@ -701,10 +701,10 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
+      Alongside my interests in Data Sciences and healthcare some of my other interests and hobbies are:
+      - Camping
+      - Travel / Overlanding
+      - Teaching
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image
