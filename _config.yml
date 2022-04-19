@@ -648,6 +648,7 @@ content:
 
       - layout: Left
         title: Citi Training
+        sub_title: OptumLabs, University of Nevada, Las Vegas, NIH all require CITI Training
        # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
@@ -657,8 +658,8 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          OptumLabs and University of Nevada, Las Vegas, NIH require CITI Training
+        # quote: >
+
         description: | # this will include new lines to allow paragraphs
           <br> Biomedical Research
           <br> Biomedical Responsible Conduct of Research
