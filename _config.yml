@@ -66,7 +66,7 @@ content:
         link: https://www.optum.com/
         link_text: Optum
         sub_title: Senior Data Scientist
-        caption: March 2022 - Present
+        caption: Feb 2022 - Present
         quote:  Fusing Clinical Decision Support with multi data sources and multi lines of business to reduce cost and increase patients access to health care.
 
         description:  # | this will include new lines to allow paragraphs
@@ -89,7 +89,7 @@ content:
             <br>• Simultaneously considers the multi-dimensional needs of a diverse group of clients and stakeholders to understand the data requirements, report better, and provide context when needed.
             <br>• Speak and act truthfully while respecting others' feelings, treats others the way in which they wish to be treated, and openly shares with others all the information they need.
             <br>• Focus on integrity above all else as the foundation for everything
-            <br>• The technology requirements MSsql, Oracle DB, Netsmart, Netgen, Touchworks, ACM, ICM, Microstrategy Server, Tableau Server, Tableau Desktop, Excel, SSMS, SSRS, RDP, Altreyx, Power bi tools, python, Anaconda, prescriptive analytics, data wrangling, data visualization, and additional advanced data science tools.
+            <br>• The technology requirements MSsql, Oracle DB, Netsmart, Netgen, Touchworks, Microstrategy, Tableau, Excel, SSMS, SSRS, Altreyx, Power bi-tools, python, Anaconda, prescriptive analytics, data wrangling, data visualization, and additional advanced data science tools.
 
 
 
@@ -201,57 +201,6 @@ content:
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           - Student of the Year - out of 30,000 students
-
-
-
-  - title: Online Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: FreeCodeCamp
-        caption: 2016 - 2017
-        sub_title: Full Staack Web Developement, Computer Software Engineering
-        # quote: >
-        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        # description: | # this will include new lines to allow paragraphs
-        #   During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-        #   I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-      - layout: left
-        title: Lambda Code School
-        caption: 2017 - 2018
-        sub_title: Python 3 and JS
-        # quote: >
-        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        # description: | # this will include new lines to allow paragraphs
-        #   During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-        #   I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-      - layout: left
-        title: FastAI
-        caption: 2019 - 2020
-        sub_title: Python 3 and FastAI
-        # quote: >
-        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        # description: | # this will include new lines to allow paragraphs
-        #   During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-        #   I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-
-      - layout: left
-        title: Udemy
-        caption: 2015 - 2022
-        sub_title: Python 3, Pytorch, Tableau, ALteryx, Sckit-Learn, and more
-        # quote: >
-        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        # description: | # this will include new lines to allow paragraphs
-        #   During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-        #   I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
 
 
 
