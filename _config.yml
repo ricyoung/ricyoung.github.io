@@ -30,7 +30,7 @@ linkedin_username: richard-j-young/
 # pinterest_username: jekyll
 #youtube_username: globalmtb
 # googleplus_username: +jekyll
-orcid_username: 0000-0002-1109-7552
+# orcid_username: 0000-0002-1109-7552
 
 # Additional icon links
 additional_links:
@@ -52,10 +52,11 @@ gtag: "G-09B8S71639"
 # about_title: About Me
 about_profile_image: images/sm.gif
 about_content: | # this will include new lines to allow paragraphs
- Research Data Scientist with years of experience in healthcare and data analysis looking to work with progressive companies to solve operational and data analytical challenges. Achievements include designing and supporting a large HPC cluster for research and business intelligence purposes, utilized multi data sources to discover new actionable knowledge and reducing operational costs. Highly skilled in hypothesis testing, analytical process management, visual problem solving, and data story telling.
-
-  I am most skilled in: <mark>Problem Solving using Data</mark> and <mark>Overlanding</mark>
-
+ Research Data Scientist with 10+ years of direct experience in healthcare and data science. Management and project development with Fortune 5 companies to solve operational and machine learning challenges. Recent achievements include:
+ <br>• Implementing and managing a direct-to-client data self-service platform.
+ <br>• Supporting multi-market operations with different database, EMR, and regulatory compliance.
+ <br>• Designing one of the most significant HPC clusters in the state to accelerate research.
+ Highly skilled in <mark>hypothesis testing</mark>, analytical process development, <mark>Technical management</mark>, clinical support, <mark>Achieving Data Driven Results</mark> and <mark>Data Fusion to Drive Change</mark>
 content:
 
   - title: Experience # Title for the section
@@ -67,15 +68,14 @@ content:
         link_text: Optum
         sub_title: Senior Data Scientist
         caption: Feb 2022 - Present
-        quote:  Fusing Clinical Decision Support with multi data sources and multi lines of business to reduce cost and increase patients access to health care.
+        quote:  Fusing Clinical Decision Support with multi data sources and diffrent lines of business to reduce cost and increase patients access to health care.
 
         description:  # | this will include new lines to allow paragraphs
-            <br>• Apply advanced statistical and predictive modeling techniques to data related to the optimization of healthcare and patient experiences
-            <br>• Propose innovative new ways to look at problems using data, statistical analysis and machine learning
-            <br>• Communicate findings, verbally, and visually, to senor leadership, business partners, and clients
-            <br>• Find out new data sources and verify integrity of data then fill gaps and improve models and business intellgenices
-            <br>• Support business needs around analytics, predictive modeling, and business intelligence
-            <br>• Provide on-going tracking and monitoring of performance of statistical models and recommend ongoing improvements to methods and algorithms
+            <br>• Developed innovative new ways to look at problems using data, statistical analysis, and machine learning
+            <br>• Communicate findings, verbally and visually, to senor leadership, business partners, and clients
+            <br>• Found new data sources and verified the integrity of data to fill gaps and improve business intelligence
+            <br>• Support business needs around analytic models and predictive modeling while maintaining data integrity (PHI / PII / PCI / HIPAA)
+            <br>• Provide ongoing tracking and monitoring of performance models and recommend improvements to methods and algorithms
       - layout: left
         title: Optum
         link: https://www.optum.com/
@@ -86,11 +86,25 @@ content:
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: #|  this will include new lines to allow paragraphs
             <br>• Anticipate business and industry trends using knowledge and education to understand how changes in technology will influence reporting, health delivery, and regulations.
-            <br>• Simultaneously considers the multi-dimensional needs of a diverse group of clients and stakeholders to understand the data requirements, report better, and provide context when needed.
-            <br>• Speak and act truthfully while respecting others' feelings, treats others the way in which they wish to be treated, and openly shares with others all the information they need.
-            <br>• Focus on integrity above all else as the foundation for everything
-            <br>• The technology requirements MSsql, Oracle DB, Netsmart, Netgen, Touchworks, Microstrategy, Tableau, Excel, SSMS, SSRS, Altreyx, Power bi-tools, python, Anaconda, prescriptive analytics, data wrangling, data visualization, and additional advanced data science tools.
+            <br>• Simultaneously considers the multi-dimensional needs of a diverse group of clients and stakeholders to understand the data requirements and reports and provide context when needed.
+            <br>• Focused on integrity as the foundation for everything - ensuring that data is accurate, reliable, and timely and that data integrity is maintained at the highest level.
+            <br>• The technology requirements MSsql, Oracle DB, Netsmart, Netgen, TouchWorks, Microstrategy, Tableau Desktop and Server, Excel, SSMS, SSRS, IBM SPSS, Altreyx, Microsoft Power bi-tools, python, numpy, pandas, scikit-learn, R, Anaconda, prescriptive analytics, data wrangling, data visualization, and additional advanced data science tools.
 
+
+      - layout: left
+        title: Nevada Institute of Personalized Medicine
+        link: https://www.unlv.edu/nipm
+        link_text: UNLV - NIPM
+        sub_title: Data Scientist
+        caption: Nov 2014 - Jun 2019
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description:  # this will include new lines to allow paragraphs
+            <br>• Architected and implemented analytics and visualization components for device data analysis platform to predict hardware
+            <br>• Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+            <br>• Conduct data mining, modeling, statistical analysis, business intelligence gathering, trending, and benchmarking.
+            <br>• Designed SuperComputers  & HPC for high performance computing.
+                # News Release: https://cdn2.hubspot.net/hubfs/143457/docs/CaseStudy_UNLV_FINAL.pdf
 
 
 
@@ -103,29 +117,11 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description:  # this will include new lines to allow paragraphs
-          <br>• Analyzed genetic data and develop techniques for disease detection, gene expression, short reads, long reads and isoforms.
+          <br>• Analyzed genetic data and developed techniques for disease detection, gene expression, short reads, long reads, and isoforms.
           <br>• Data mining from primary sources and conducting a comprehensive analysis using in-house software tools
-          <br>• Designed databases (nosql) and custom programmed software to analyze significant data sources.
-          <br>• Work with Complance to ensure all protocals are created, followed, and audited.
+          <br>• Designed databases (nosql) and custom programmed software to analyze significant big data sources.
+          <br>• Worked with  NIH and other compliance agencies to ensure all protocols follow local and federal laws.
 
-
-
-
-
-      - layout: left
-        title: Nevada Institute of Personalized Medicine
-        link: https://www.unlv.edu/nipm
-        link_text: UNLV - NIPM
-        sub_title: Data Scientist
-        caption: Nov 2014 - Jun 2019
-        # quote: >
-        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description:  # this will include new lines to allow paragraphs
-            • Architected and implemented analytics and visualization components for device data analysis platform to predict hardware
-            <br>• Assess the effectiveness and accuracy of new data sources and data gathering techniques.
-            <br>• Conduct data mining, data modeling, statistical analysis, business intelligence gathering, trending and benchmarking.
-            <br>• Designed SuperComputers  & HPC for high perforamance computing.
-                # News Release: https://cdn2.hubspot.net/hubfs/143457/docs/CaseStudy_UNLV_FINAL.pdf
 
       - layout: top-middle
         title: Past Experience
@@ -133,21 +129,6 @@ content:
         # link: https://www.unlv.edu/nipm
         # link_text: boringcompany.com
         caption: <mark>Computer Network Technician II</mark> - <mark>Assistant Director of MIS</mark> - <mark>Director of Training</mark><br><br><br><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -224,8 +205,7 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Heart failure is the most common admitting diagnosis in patients over the age of 65.  Heart failure present an enormous economic burden and increasing risk to the aging population. Heart failure is directly associated with increased morbidity and also effects mental health such as depression.
-
+         Technical reviewer for Packt Publishing's Data Engineering and Data Science books.
 
 
 
@@ -532,7 +512,7 @@ content:
           <br> Export Control Training
           <br> Technology, Ethics, and Regulations
 
-
+      <br>Achieving Clinical Excellence / Lean Six Sigma Training
 
         *Responsible Conduct of Research*
 
@@ -541,7 +521,7 @@ content:
         Architecting on AWS
 
 
-        * Sciex - capillary electrophoresis*
+      <br> Sciex - capillary electrophoresis*
 
         <mark> U.C. Davis</mark>
         Bioinformatics Training - ISO-Form
@@ -708,7 +688,8 @@ content:
       - Camping
       - Travel / Overlanding
       - Teaching
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - Reading
+      - Community Service
 
       Look at this cool image
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
