@@ -37,7 +37,7 @@ linkedin_username: richard-j-young/
 additional_links:
 - title: Download PDF
   icon: fas fa-file-pdf
-  url: https://www.dropbox.com/resume
+  url: https://www.dropbox.com/s/2fy19ow6t8v8hnl/Richard_Young_Resume.pdf?dl=1
 
 - title: Summary Resume
   icon: fas fa-timeline
@@ -132,6 +132,7 @@ content:
           <br>• Data mining from primary sources and conducting a comprehensive analysis using in-house software tools
           <br>• Designed databases (nosql) and custom programmed software to analyze significant big data sources.
           <br>• Worked with NIH and other compliance agencies to ensure all protocols follow local and federal laws.
+          <br>• Designed the first SARS-CoV2 WasteWater Dashboard in Nevada which state officials used to respond to the pandemic
 
 
       - layout: top-middle
