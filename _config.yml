@@ -221,7 +221,7 @@ content:
 
 
       - layout: top-middle
-        title: (IP) 30-day Readmission Rate for Congestive Heart Failure Discharges and Reasons for Readmission
+        title: ((In process) 30-day Readmission Rate for Congestive Heart Failure Discharges and Reasons for Readmission
         # link: https://epostersonline.com/ons2016/node/111
         sub_title: 2022
         # link_text: Project Website
@@ -235,7 +235,7 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Heart failure is the most common admitting diagnosis in patients over the age of 65.  Heart failure present an enormous economic burden and increasing risk to the aging population. Heart failure is directly associated with increased morbidity and also effects mental health such as depression.
+          Heart failure is the most common admitting diagnosis in patients over the age of 65. Heart failure presents an enormous economic burden and increased risk to the aging population. Heart failure is directly associated with increased morbidity and also affects mental health such as depression.
 
 
 
@@ -324,7 +324,7 @@ content:
         # sub_title: 2016
         # link_text: Project Website
         additional_links:
-          - title:  Minimotifs
+          - title:  Human Disease
             icon: fab fa-children
             url: https://academic.oup.com/nar/article/43/13/6399/2414244
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
