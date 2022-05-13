@@ -224,7 +224,7 @@ content:
       - layout: top-middle
         title: (In process) 30-day Readmission Rate for Congestive Heart Failure Discharges and Reasons for Readmission
         # link: https://epostersonline.com/ons2016/node/111
-        sub_title:  <marK>Human Disease</marK> and <marK>Population Health</marK>
+        sub_title:  <mark2>Human Disease</marK2> and <mark2>Population Health</mark2>
         # link_text: Project Website
         # additional_links:
         #   - title:  Genetics
@@ -244,7 +244,7 @@ content:
       - layout:  top-middle
         title: Honors Thesis - Diversity of Minimotifs in human traits and disease.
         # link: https://academic.oup.com/nar/article/43/13/6399/2414244
-        sub_title:  <marK>Human Disease</marK> and <marK>Biology</marK>
+        sub_title:  <mark2>Human Disease</mark2> and <mark2>Biology</mark2>
         # link_text: Project Website
         additional_links:
           - title:  Minimotifs
