@@ -222,7 +222,7 @@ content:
 
 
       - layout: top-middle
-        title: ((In process) 30-day Readmission Rate for Congestive Heart Failure Discharges and Reasons for Readmission
+        title: (In process) 30-day Readmission Rate for Congestive Heart Failure Discharges and Reasons for Readmission
         # link: https://epostersonline.com/ons2016/node/111
         sub_title: 2022
         # link_text: Project Website
@@ -244,7 +244,7 @@ content:
       - layout:  top-middle
         title: Honors Thesis - Diversity of Minimotifs in human traits and disease.
         # link: https://academic.oup.com/nar/article/43/13/6399/2414244
-        # sub_title: 2019
+        sub_title:  Human Disease and Biology
         # link_text: Project Website
         additional_links:
           - title:  Minimotifs
@@ -263,7 +263,7 @@ content:
       - layout:  top-middle
         title: Minimotifs Dysfunction is Pervasive in Neurodegenerative Disorders
         # link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6139474/
-        # sub_title: 2018
+        sub_title:  Human Disease and Neuroscience
         # link_text: Project Website
         additional_links:
           - title:  Minimotifs
