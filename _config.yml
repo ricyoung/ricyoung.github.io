@@ -55,7 +55,7 @@ about_profile_image: images/sm.gif
 about_content: | # this will include new lines to allow paragraphs
  Research Data Scientist familiar with the gathering, cleaning, and organizing of data for use by senior leadership, technical, and non-technical personnel. Willingness to take on added responsibilities to meet team goals. Advanced understanding of statistical, algebraic, health care, and analytical techniques. Highly organized, motivated, and diligent with significant background in HealthCare Informatics. Skilled in predictive modeling, data mining, and hypothetical testing. Experienced working with vast data sets to break down information, gather relevant points, and solve advanced business problems. Providing Innovative valued-added solutions with over ten years of experience in analytics and success in delivering results, visualization, and relationship management. Highly accomplished in influencing decision-makers and driving profitability and increasing patient care across multiple divisions.  Dedicated with a history of meeting company goals utilizing consistent and organized practices, skilled in working under pressure and adapting to new situations and challenges to best enhance the corporate brand. Eager to bring expertise to the growing organization in a challenging new role.
 
- Highly skilled in <mark>hypothesis testing</mark>, analytical process development, <mark>Technical management</mark>, clinical support, <mark>Achieving Data Driven Results</mark> and <mark>Data Fusion to Drive Change</mark>
+ Highly skilled in <mark>Hypothesis Testing</mark>, analytical process development, <mark>Technical Management</mark>, clinical support, <mark>Achieving Data Driven Results</mark> and <mark>Data Fusion to Drive Change</mark>
 content:
 
   - title: Experience # Title for the section
@@ -72,9 +72,14 @@ content:
         description:  # | this will include new lines to allow paragraphs
             <br>• Developed innovative new ways to look at problems using data, statistical analysis, and machine learning
             <br>• Communicate findings, verbally and visually, to senor leadership, business partners, and clients
-            <br>• Found new data sources and verified the integrity of data to fill gaps and improve business intelligence
+            <br>• Discovered new data sources and verified the integrity of data to fill gaps and improve business intelligence
             <br>• Support business needs around analytic models and predictive modeling while maintaining data integrity (PHI / PII / PCI / HIPAA)
             <br>• Provide ongoing tracking and monitoring of performance models and recommend improvements to methods and algorithms
+            <br>• Worked with stakeholders to develop quarterly roadmaps based on impact, effort, and test coordination.
+            <br>• Utilized advanced querying, visualization and analytics tools to analyze and process complex data sets.
+            <br>• Developed intricate algorithms based on deep-dive statistical analysis and predictive data modeling.
+            <br>• Applied statistical and algebraic techniques to interpret key points from gathered data.
+
       - layout: left
         title: Optum
         link: https://www.optum.com/
@@ -85,10 +90,12 @@ content:
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: #|  this will include new lines to allow paragraphs
             <br>• Anticipate business and industry trends using knowledge and education to understand how changes in technology will influence reporting, health delivery, and regulations.
-            <br>• Simultaneously considers the multi-dimensional needs of a diverse group of clients and stakeholders to understand the data requirements and reports and provide context when needed.
+            <br>• Simultaneously considers multi-dimensional needs of a diverse group of clients and stakeholders to understand the data requirements and reports and provide context when needed.
             <br>• Focused on integrity as the foundation for everything - ensuring that data is accurate, reliable, and timely and that data integrity is maintained at the highest level.
-            <br>• The technology requirements MSsql, Oracle DB, Netsmart, Netgen, TouchWorks, Microstrategy, Tableau Desktop and Server, Excel, SSMS, SSRS, IBM SPSS, Altreyx, Microsoft Power bi-tools, python, numpy, pandas, scikit-learn, R, Anaconda, prescriptive analytics, data wrangling, data visualization, and additional advanced data science tools.
-
+            <br>• Improved data collection methods by designing surveys, polls, and other instruments.
+            <br>• Tested and validated models for accuracy of predictions in outcomes of interest.
+            <br>• Improved statistical analyses within the software to process large datasets and reduce cost and increase accuracy.
+            <br>• The technology commonly used MSsql, Oracle DB, Netsmart, Netgen, TouchWorks, Microstrategy, Tableau Desktop and Server, Excel, SSMS, SSRS, IBM SPSS, Altreyx, Microsoft Power bi-tools, python, numpy, pandas, scikit-learn, R, Anaconda, prescriptive analytics, data wrangling, data visualization, and additional advanced data science tools.
 
       - layout: left
         title: Nevada Institute of Personalized Medicine
@@ -100,9 +107,13 @@ content:
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description:  # this will include new lines to allow paragraphs
             <br>• Architected and implemented analytics and visualization components for device data analysis platform to predict hardware
-            <br>• Assess the effectiveness and accuracy of new data sources and data gathering techniques.
-            <br>• Conduct data mining, modeling, statistical analysis, business intelligence gathering, trending, and benchmarking.
-            <br>• Designed SuperComputers  & HPC for high performance computing.
+            <br>• Analyzed genetic data and developed techniques for disease detection, gene expression, short reads, long reads, and isoforms.
+            <br>• Data mining from primary sources and conducting comprehensive analysis using in-house software tools
+            <br>• Designed databases (nosql) and custom programmed software to analyze significant big data sources.
+            <br>• Worked with NIH and other compliance agencies to ensure all protocols follow local and federal laws.
+            <br>• Implemented randomized sampling techniques for optimized surveys.
+            <br>• Leveraged mathematical techniques to develop engineering and scientific solutions.
+            <br>• Set up SQL and NoSQL database on cloud servers to store client data for query analysis.
                 # News Release: https://cdn2.hubspot.net/hubfs/143457/docs/CaseStudy_UNLV_FINAL.pdf
 
 
