@@ -224,7 +224,7 @@ content:
       - layout: top-middle
         title: (In process) 30-day Readmission Rate for Congestive Heart Failure Discharges and Reasons for Readmission
         # link: https://epostersonline.com/ons2016/node/111
-        sub_title: 2022
+        sub_title:  <marK>Human Disease</marK> and <marK>Population Health</marK>
         # link_text: Project Website
         # additional_links:
         #   - title:  Genetics
@@ -284,7 +284,7 @@ content:
       - layout:  top-middle
         title: Minimotif Miner 4 a million peptide minimotifs and counting.
         # link: https://pubmed.ncbi.nlm.nih.gov/29140456/
-        # sub_title: 2016
+        sub_title: <marK>Genetics</marK> and <marK>Data Science</marK>
         # link_text: Project Website
         additional_links:
           - title:  Minimotifs
@@ -303,7 +303,7 @@ content:
       - layout:  top-middle
         title: Natural variability of minimotifs in 1092 people indicates that minimotifs are targets of evolution
         # link: https://pubmed.ncbi.nlm.nih.gov/26068475/
-        # sub_title: 2015
+        sub_title:  <marK>Genetics</marK> and <marK>Biology</marK>
         # link_text: Project Website
         additional_links:
           - title:  Minimotifs
@@ -322,7 +322,7 @@ content:
       - layout:  top-middle
         title: Association of telomeres and telomerase with clinical outcomes in children with acute lymphoblastic leukemia a review of literature.
         # link: https://academic.oup.com/nar/article/43/13/6399/2414244
-        # sub_title: 2016
+        sub_title:  <marK>Human Disease</marK> and <marK>Genetics</marK>
         # link_text: Project Website
         additional_links:
           - title:  Human Disease
