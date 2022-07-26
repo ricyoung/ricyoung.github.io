@@ -152,13 +152,14 @@ content:
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
-    quote:  My research focuses on advancing our understanding of <mark>Human Disease</mark> by using data fusion, deep learning, computational neuroscience, and brain stimulation. I am currently working on a project to analyze the brain and body in order to better understand the disease pathology in relation to advance brain stimulation and its underlying mechanisms.</br>
 
     content:
       - layout: left
         sub_title: University of Nevada, Las Vegas
         caption: 2021 - Current
         title: Ph.D Neuroscience Computional
+        quote:  My research focuses on advancing our understanding of <mark>Human Disease</mark> by using data fusion, deep learning, computational neuroscience, and brain stimulation. I am currently working on a project to analyze the brain and body in order to better understand the disease pathology in relation to advance brain stimulation and its underlying mechanisms.</br>
+
 
         description: | # this will include new lines to allow paragraphs
           Research is focused on using computational resources on neuroscience questions, deep learning model for the detection of Alzheimer's disease's using OpenCV. The second is a computational model for the detection of Noval ISO Forms using PAC BIO long reads. Finally I am working on a brain stimulation model using tDCS and TMS in the brain.
