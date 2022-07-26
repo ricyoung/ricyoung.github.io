@@ -156,7 +156,10 @@ content:
         quote: My research focuses on advancing our understanding of <mark>Human Disease</mark> by using data fusion, deep learning, computational neuroscience, and brain stimulation. I am currently working on a project to analyze the brain and body in order to better understand the disease pathology in relation to advance brain stimulation and its underlying pathways.
 
         description:  # | this will include new lines to allow paragraphs
-            <br>Research is focused on using computational resources on neuroscience questions, deep learning model for the detection of Alzheimer's disease's using OpenCV. The second is a computational model for the detection of Noval ISO Forms using PAC BIO long reads. Finally I am working on a brain stimulation model using tDCS and TMS in the brain.
+          <br> Research is focused on using computational resources and tools to answer neurosciences questions.
+          <br> Using of deep learning models for the detection of Alzheimer's disease's using OpenCV by mapping varients to RGB color maps.
+          <br> Knowledge in computational modeling for the detection of Novel ISO Forms using PAC BIO long reads and smartlnk tools to uncover novel genetic ISO Forms.
+          <br> Additional work in a brain stimulation and neuro proformance using tDCS and TMS in the brain to improve brain performance on various tasks.
 
 
 
