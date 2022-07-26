@@ -145,6 +145,28 @@ content:
 
 
 
+  - title: Education 2 # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: UNLV
+        link: https://www.optum.com/
+        link_text: Optum
+        sub_title: PhD Student
+        caption: Jan 2021 - Present
+        quote:  My research focuses on advancing our understanding of <mark>Human Disease</mark> by using data fusion, deep learning, computational neuroscience, and brain stimulation. I am currently working on a project to analyze the brain and body in order to better understand the disease pathology in relation to advance brain stimulation and its underlying pathways.
+
+        description:  # | this will include new lines to allow paragraphs
+            <br>• Developed innovative new ways to look at problems using data, statistical analysis, and machine learning
+            <br>• Communicate findings, verbally and visually, to senor leadership, business partners, and clients
+            <br>• Discovered new data sources and verified integrity of data to fill gaps and improve business intelligence
+            <br>• Support business needs around analytic models and predictive modeling while maintaining data integrity (PHI / PII / PCI / HIPAA)
+            <br>• Provide ongoing tracking and monitoring of performance models and recommend improvements to methods and algorithms
+            <br>• Worked with stakeholders to develop quarterly roadmaps based on impact, effort, and test coordination.
+            <br>• Utilized advanced querying, visualization and analytics tools to analyze and process complex data sets.
+            <br>• Developed intricate algorithms based on deep-dive statistical analysis and predictive data modeling.
+            <br>• Applied statistical and algebraic techniques to interpret key points from gathered data.
+
 
  
 
