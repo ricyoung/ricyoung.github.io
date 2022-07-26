@@ -144,19 +144,38 @@ content:
 
 
 
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Ph.D Neuroscience Computiona
-        link: https://www.unlv.com/
+        link: https://www.optum.com/
         link_text: Optum
-        sub_title: PhD Student
-        caption: 2021 - Current
-        quote:  My research focuses on advancing our understanding of <mark>Human Disease</mark> by using data fusion, deep learning, computational neuroscience, and brain stimulation. I am currently working on a project to analyze the brain and body in order to better understand the disease pathology in relation to advance brain stimulation and its underlying pathways.
-        description: | # this will include new lines to allow paragraphs
-          <br>Research is focused on using computational resources on neuroscience questions, deep learning model for the detection of Alzheimer's disease's using OpenCV. The second is a computational model for the detection of Noval ISO Forms using PAC BIO long reads. Finally I am working on a brain stimulation model using tDCS and TMS in the brain.
+        sub_title: Senior Data Scientist
+        caption: Feb 2022 - Present
+        quote:  Fusing Clinical Decision Support with multi data sources and diffrent lines of business to reduce cost and increase patients access to health care.
+
+        description:  # | this will include new lines to allow paragraphs
+            <br>• Developed innovative new ways to look at problems using data, statistical analysis, and machine learning
+            <br>• Communicate findings, verbally and visually, to senor leadership, business partners, and clients
+            <br>• Discovered new data sources and verified integrity of data to fill gaps and improve business intelligence
+            <br>• Support business needs around analytic models and predictive modeling while maintaining data integrity (PHI / PII / PCI / HIPAA)
+            <br>• Provide ongoing tracking and monitoring of performance models and recommend improvements to methods and algorithms
+            <br>• Worked with stakeholders to develop quarterly roadmaps based on impact, effort, and test coordination.
+            <br>• Utilized advanced querying, visualization and analytics tools to analyze and process complex data sets.
+            <br>• Developed intricate algorithms based on deep-dive statistical analysis and predictive data modeling.
+            <br>• Applied statistical and algebraic techniques to interpret key points from gathered data.
+
+
+
+    
+        # link: https://www.unlv.com/
+        # link_text: Optum
+        # sub_title: PhD Student
+        # caption: 2021 - Current
+        # quote:  My research focuses on advancing our understanding of <mark>Human Disease</mark> by using data fusion, deep learning, computational neuroscience, and brain stimulation. I am currently working on a project to analyze the brain and body in order to better understand the disease pathology in relation to advance brain stimulation and its underlying pathways.
+        # description: | # this will include new lines to allow paragraphs
+        #   <br>Research is focused on using computational resources on neuroscience questions, deep learning model for the detection of Alzheimer's disease's using OpenCV. The second is a computational model for the detection of Noval ISO Forms using PAC BIO long reads. Finally I am working on a brain stimulation model using tDCS and TMS in the brain.
 
       - layout: left
         sub_title: University of Nevada, Las Vegas
