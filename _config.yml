@@ -53,9 +53,8 @@ gtag: "G-09B8S71639"
 # about_title: About Me
 about_profile_image: images/sm.gif
 about_content: | # this will include new lines to allow paragraphs
- Research Data Scientist familiar with the gathering, cleaning, and organizing of data for use by senior leadership, technical, and non-technical personnel. Willingness to take on added responsibilities to meet team goals. Advanced understanding of statistical, algebraic, health care, and analytical techniques. Highly organized, motivated, and diligent with significant background in HealthCare Informatics. Skilled in predictive modeling, data mining, and hypothetical testing. Experienced working with vast data sets to break down information, gather relevant points, and solve advanced business problems. Providing Innovative valued-added solutions with over ten years of experience in analytics and success in delivering results, visualization, and relationship management. Highly accomplished in influencing decision-makers and driving profitability and increasing patient care across multiple divisions.  Dedicated with a history of meeting company goals utilizing consistent and organized practices, skilled in working under pressure and adapting to new situations and challenges to best enhance the corporate brand. Eager to bring expertise to the growing organization in a challenging new role.
-
- Highly skilled in <mark>Hypothesis Testing</mark>, analytical process development, <mark>Technical Management</mark>, clinical support, <mark>Achieving Data Driven Results</mark> and <mark>Data Fusion to Drive Change</mark>
+  Research Data Scientist familiar with the gathering, cleaning, and organizing data for use by senior leadership and technical and non-technical personnel. Willingness to take on added responsibilities to meet team goals. Advanced understanding of statistical, algebraic, health care, and analytical techniques. Highly organized, motivated, and diligent with significant background in HealthCare Informatics. Skilled in predictive modeling, data mining, and hypothetical testing. Experienced working with vast data sets to break down information, gather relevant points, and solve advanced business problems. Providing innovative value-added solutions with over ten years of experience in analytics and success in delivering results, visualization, and relationship management. Highly accomplished in influencing decision-makers, driving profitability, and increasing patient care across multiple divisions. Dedicated with a history of meeting company goals utilizing consistent and organized practices, skilled in working under pressure and adapting to new situations and challenges to best enhance the corporate brand. Eager to bring expertise to the growing organization in a challenging new role.
+  Highly skilled in <mark>Hypothesis Testing</mark>, analytical process development, <mark>Technical Management</mark>, clinical support, <mark>Achieving Data Driven Results</mark> and <mark>Data Fusion to Drive Change</mark>
 content:
 
   - title: Experience # Title for the section
@@ -76,9 +75,9 @@ content:
             <br>• Support business needs around analytic models and predictive modeling while maintaining data integrity (PHI / PII / PCI / HIPAA)
             <br>• Provide ongoing tracking and monitoring of performance models and recommend improvements to methods and algorithms
             <br>• Worked with stakeholders to develop quarterly roadmaps based on impact, effort, and test coordination.
-            <br>• Utilized advanced querying, visualization and analytics tools to analyze and process complex data sets.
+            <br>• Utilized advanced querying, visualization, and analytics tools to analyze and process complex data sets.
             <br>• Developed intricate algorithms based on deep-dive statistical analysis and predictive data modeling.
-            <br>• Applied statistical and algebraic techniques to interpret key points from gathered data.
+            <br>• Applied statistical and algebraic techniques to interpret critical points from gathered data.
 
       - layout: left
         title: Optum
@@ -89,12 +88,12 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: #|  this will include new lines to allow paragraphs
-            <br>• Anticipate business and industry trends using knowledge and education to understand how changes in technology will influence reporting, health delivery, and regulations.
+            <br>• Anticipate business and industry trends using knowledge and education to understand how technological changes will influence reporting, health delivery, and regulations.
             <br>• Simultaneously considers multi-dimensional needs of a diverse group of clients and stakeholders to understand data requirements and reports and provide context when needed.
-            <br>• Focused on integrity as the foundation for everything - ensuring that data is accurate, reliable, and timely and that data integrity is maintained at highest level.
+            <br>• Focused on integrity as the foundation for everything - ensuring that data is accurate, reliable, and timely and that data integrity is maintained at the highest level.
             <br>• Improved data collection methods by designing surveys, polls, and other instruments.
             <br>• Tested and validated models for accuracy of predictions in outcomes of interest.
-            <br>• Improved statistical analyses within software to process large datasets and reduce cost and increase accuracy.
+            <br>• Improved statistical analyses within the software to process large datasets, reduce cost, and increase accuracy.
             <br>• The technology commonly used MSSQL, Oracle DB, Netsmart, Netgen, TouchWorks, Microstrategy, Tableau Desktop and Server, Excel, SSMS, SSRS, IBM SPSS, Altreyx, Microsoft Power bi-tools, python, numpy, pandas, scikit-learn, R, Anaconda, prescriptive analytics, data wrangling, data visualization, and additional advanced data science tools.
 
       - layout: left
@@ -130,9 +129,9 @@ content:
         description:  # this will include new lines to allow paragraphs
           <br>• Analyzed genetic data and developed techniques for disease detection, gene expression, short reads, long reads, and isoforms.
           <br>• Data mining from primary sources and conducting a comprehensive analysis using in-house software tools
-          <br>• Designed databases (nosql) and custom programmed software to analyze significant big data sources.
+          <br>• Designed databases (NoSQL) and custom programmed software to analyze significant big data sources.
           <br>• Worked with NIH and other compliance agencies to ensure all protocols follow local and federal laws.
-          <br>• Designed the first SARS-CoV2 WasteWater Dashboard in Nevada which state officials used to respond to the pandemic
+          <br>• Designed the first SARS-CoV2 WasteWater Dashboard in Nevada, which state officials used to respond to the pandemic
 
 
       - layout: top-middle
@@ -158,15 +157,15 @@ content:
         description:  # | this will include new lines to allow paragraphs
           <br>• Provided answers using data fusion, deep learning, computational neuroscience, and brain stimulation to advance our understanding of <mark>Human Diseases</mark>.
           <br>• Research is focused on using computational resources and tools to answer neurosciences questions.
-          <br>• Statistical analysis and Machine learning models used to predict the SAR-Cov2 virus level. 
-          <br>• The goal of the research is to understand the brain and its structure in do help patients with neurodegenetive disease.
-          <br>•  Using of deep learning models for the detection of Alzheimer's disease's using OpenCV by mapping varients to RGB color maps.
-          <br>•  Knowledge in computational modeling for the detection of Novel ISO Forms using PAC BIO long reads and smartlnk tools to uncover novel genetic ISO Forms.
-          <br>•  Additional work in a brain stimulation and neuro proformance using tDCS and TMS in the brain to improve brain performance on various tasks.
+          <br>• Statistical analysis and Machine learning models were used to predict the SAR-Cov2 virus level.
+          <br>• The research aims to understand the brain and its structure in do help patients with neurodegenerative disease.
+          <br>•  Using deep learning models for detecting Alzheimer's disease using OpenCV by mapping variants to RGB color maps.
+          <br>•  Knowledge in computational modeling for detecting Novel ISO Forms using PAC BIO long reads and smartlnk tools to uncover novel genetic ISO Forms.
+          <br>•  Additional work in brain stimulation and neuro performance using tDCS and TMS in the brain to improve brain performance on various tasks.v
 
 
 
-        
+
         # quote:  My research focuses on advancing our understanding of <mark>Human Disease</mark> by using data fusion, deep learning, computational neuroscience, and brain stimulation. I am currently working on a project to analyze the brain and body in order to better understand the disease pathology in relation to advance brain stimulation and its underlying pathways.
         # description: | # this will include new lines to allow paragraphs
         #   <br>
