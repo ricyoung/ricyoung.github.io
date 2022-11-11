@@ -85,12 +85,12 @@ content:
 
 
       - layout: left
-        title: Optum
-        link: https://www.optum.com/
-        link_text: Optum
-        sub_title: Senior Data Scientist
+        title: University of Nevada, Las Vegas
+        # link: https://www.optum.com/
+        # link_text: Optum
+        sub_title: ML Researcher Assistant - Brain-Dervied Data
         caption: Nov 2022 - Present
-        quote:  Fusing Clinical Decision Support with multi data sources and diffrent lines of business to reduce cost and increase patients access to health care.
+        quote:  Brain-Dervied data is a new field of research that is using machine learning to analyze brain data to help with the diagnosis of neurological disorders.
 
         description:  # | this will include new lines to allow paragraphs
               <br>• Streamlined research processes to meet tight deadlines for multiple projects and clients
