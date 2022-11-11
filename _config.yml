@@ -106,6 +106,22 @@ content:
               <br>• Advised or assisted in obtaining patents or meeting other legal requirements for inventions
               <br>• Coached and mentored junior data scientists on Python, Alteryx, Matlab, R, SPSS, and data mining techniques and best practices
 
+      - layout: left
+        title: Optum
+        link: https://www.optum.com/
+        link_text: Optum
+        sub_title: Data Scientist
+        caption: Aug 2018 - March 2022
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: #|  this will include new lines to allow paragraphs
+              <br>• Anticipate business and industry trends using knowledge and education to understand how technological changes will influence reporting, health delivery, and regulations.
+              <br>• Simultaneously considers multi-dimensional needs of a diverse group of clients and stakeholders to understand data requirements and reports and provide context when needed.
+              <br>• Focused on integrity as the foundation for everything - ensuring that data is accurate, reliable, and timely and that data integrity is maintained at the highest level.
+              <br>• Improved data collection methods by designing surveys, polls, and other instruments.
+              <br>• Tested and validated models for accuracy of predictions in outcomes of interest.
+              <br>• Improved statistical analyses within the software to process large datasets, reduce cost, and increase accuracy.
+              <br>• The technology commonly used MSSQL, Oracle DB, Netsmart, Netgen, TouchWorks, Microstrategy, Tableau Desktop and Server, Excel, SSMS, SSRS, IBM SPSS, Altreyx, Microsoft Power bi-tools, python, numpy, pandas, scikit-learn, R, Anaconda, prescriptive analytics, data wrangling, data visualization, and additional advanced data science tools.
 
 
 
