@@ -11,7 +11,7 @@ version: 2
 # Personal info
 name: Richard Young
 title: Senior Data Scientist
-email: data4ric@gmail.com
+email: richard@deepneuro.ai
 website: https://ricyoung.github.io/
 Academic / CV Resume: https://ricyoung-edu.github.io/
 
@@ -60,6 +60,7 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+
       - layout: left
         title: Optum
         link: https://www.optum.com/
@@ -69,32 +70,45 @@ content:
         quote:  Fusing Clinical Decision Support with multi data sources and diffrent lines of business to reduce cost and increase patients access to health care.
 
         description:  # | this will include new lines to allow paragraphs
-            <br>• Developed innovative new ways to look at problems using data, statistical analysis, and machine learning
-            <br>• Communicate findings, verbally and visually, to senor leadership, business partners, and clients
-            <br>• Discovered new data sources and verified integrity of data to fill gaps and improve business intelligence
-            <br>• Support business needs around analytic models and predictive modeling while maintaining data integrity (PHI / PII / PCI / HIPAA)
-            <br>• Provide ongoing tracking and monitoring of performance models and recommend improvements to methods and algorithms
-            <br>• Worked with stakeholders to develop quarterly roadmaps based on impact, effort, and test coordination.
-            <br>• Utilized advanced querying, visualization, and analytics tools to analyze and process complex data sets.
-            <br>• Developed intricate algorithms based on deep-dive statistical analysis and predictive data modeling.
-            <br>• Applied statistical and algebraic techniques to interpret critical points from gathered data.
+                <br>• Developed innovative new ways to look at problems using data, statistical analysis, and machine learning
+                <br>• Lead Engineer on multi-billion dollar merges - providing advance data requests across multi systems while ensuring legal compliance for U.S. Government
+                <br>• Communicate findings, verbally and visually, to senior leadership, business partners, and clients
+                <br>• Simultaneously managed several complex projects, meeting all pertinent milestones.
+                <br>• Discovered new data sources and verified the integrity of data to fill gaps and improve business intelligence
+                <br>• Support business needs around analytic models and predictive modeling while maintaining data integrity (PHI / PII / PCI / HIPAA)
+                <br>• Provide ongoing tracking and monitoring of performance models and recommend improvements to methods and algorithms
+                <br>• Develop quarterly roadmaps based on impact, effort, and new projects.
+                <br>• Utilized advanced querying, visualization, and analytics tools to analyze and process complex data sets
+                <br>• Conducted document review, organization, and quality control of data acquisition to draw relevant conclusions and direct business activities.
+                <br>• Developed intricate algorithms based on deep-dive statistical analysis and predictive data modeling
+                <br>• Applied statistical and algebraic techniques to interpret critical points from gathered data
+
 
       - layout: left
         title: Optum
         link: https://www.optum.com/
         link_text: Optum
-        sub_title: Data Scientist
-        caption: Aug 2018 - March 2022
-        # quote: >
-        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: #|  this will include new lines to allow paragraphs
-            <br>• Anticipate business and industry trends using knowledge and education to understand how technological changes will influence reporting, health delivery, and regulations.
-            <br>• Simultaneously considers multi-dimensional needs of a diverse group of clients and stakeholders to understand data requirements and reports and provide context when needed.
-            <br>• Focused on integrity as the foundation for everything - ensuring that data is accurate, reliable, and timely and that data integrity is maintained at the highest level.
-            <br>• Improved data collection methods by designing surveys, polls, and other instruments.
-            <br>• Tested and validated models for accuracy of predictions in outcomes of interest.
-            <br>• Improved statistical analyses within the software to process large datasets, reduce cost, and increase accuracy.
-            <br>• The technology commonly used MSSQL, Oracle DB, Netsmart, Netgen, TouchWorks, Microstrategy, Tableau Desktop and Server, Excel, SSMS, SSRS, IBM SPSS, Altreyx, Microsoft Power bi-tools, python, numpy, pandas, scikit-learn, R, Anaconda, prescriptive analytics, data wrangling, data visualization, and additional advanced data science tools.
+        sub_title: Senior Data Scientist
+        caption: Nov 2022 - Present
+        quote:  Fusing Clinical Decision Support with multi data sources and diffrent lines of business to reduce cost and increase patients access to health care.
+
+        description:  # | this will include new lines to allow paragraphs
+              <br>• Streamlined research processes to meet tight deadlines for multiple projects and clients
+              <br>• Collaborated with leadership teams to identify relevant questions and determine the best collection methods for each project
+              <br>• Utilized advanced querying, visualization, and analytics tools to analyze and process complex data sets and present findings to leadership teams
+              <br>• Performed research into study topics to increase knowledge and to provide valuable contributions to the team
+              <br>• Determining research areas to advance understanding in BCI, TDCS, TMS, and NIBS fields of study
+              <br>• Gathered and organized information for research purposes and to support the development of new products
+              <br>• Developed intricate algorithms based on deep-dive statistical analysis and predictive data modeling
+              <br>• Analyzed and interpreted patterns and trends in data to identify opportunities for improvement
+              <br>• Applied statistical and algebraic techniques to solve key points from gathered data and to provide valuable contributions to the team
+              <br>• Conferred with scientists, engineers, or others to plan or review projects or to provide technical assistance
+              <br>• Advised or assisted in obtaining patents or meeting other legal requirements for inventions
+              <br>• Coached and mentored junior data scientists on Python, Alteryx, Matlab, R, SPSS, and data mining techniques and best practices
+
+
+
+
 
       - layout: left
         title: Nevada Institute of Personalized Medicine
@@ -118,20 +132,27 @@ content:
 
 
 
+
+
       - layout: left
         title: University of Nevada, Las Vegas
         link: https://www.unlv.edu/research
         link_text: UNLV Research
         sub_title: Genetic Data Researcher / Population Health
-        caption: Nov 2014 - Current
+        caption: Nov 2014 - Oct 2022
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description:  # this will include new lines to allow paragraphs
-          <br>• Analyzed genetic data and developed techniques for disease detection, gene expression, short reads, long reads, and isoforms.
-          <br>• Data mining from primary sources and conducting a comprehensive analysis using in-house software tools
-          <br>• Designed databases (NoSQL) and custom programmed software to analyze significant big data sources.
-          <br>• Worked with NIH and other compliance agencies to ensure all protocols follow local and federal laws.
-          <br>• Designed the first SARS-CoV2 WasteWater Dashboard in Nevada, which state officials used to respond to the pandemic
+            <br>• Analyzed genetic data and developed techniques for disease detection, gene expression, short reads, long reads, and mRNA
+            <br>• Data mining from primary sources and conducting comprehensive analysis using in-house software tools and R
+            <br>• Designed databases (NoSQL) and custom-programmed software to analyze significant big-data sources
+            <br>• Worked with NIH and other compliance agencies to ensure all protocols followed local and federal laws and regulations
+            <br>• Implemented randomized sampling techniques for optimized surveys and data collection
+            <br>• Leveraged mathematical methods to develop engineering and scientific solutions to complex problems
+            <br>• Set up SQL and NoSQL databases on cloud servers to store client data for query analysis and reporting
+
+
+
 
 
       - layout: top-middle
@@ -151,17 +172,32 @@ content:
         link: https://www.unlv.com/
         link_text: UNLV
         sub_title: PhD Student
-        caption: 2021 - Current
+        caption: 2020 - Current
         quote: My research focuses on advancing our understanding of <mark>Human Disease</mark> by using data fusion, deep learning, computational neuroscience, and brain stimulation. I am currently working on a project to analyze the brain and body in order to better understand the disease pathology in relation to advance brain stimulation and its underlying pathways.
 
         description:  # | this will include new lines to allow paragraphs
-          <br>• Provided answers using data fusion, deep learning, computational neuroscience, and brain stimulation to advance our understanding of <mark>Human Diseases</mark>.
-          <br>• Research is focused on using computational resources and tools to answer neurosciences questions.
-          <br>• Statistical analysis and Machine learning models were used to predict the SAR-Cov2 virus level.
-          <br>• The research aims to understand the brain and its structure in do help patients with neurodegenerative disease.
-          <br>•  Using deep learning models for detecting Alzheimer's disease using OpenCV by mapping variants to RGB color maps.
-          <br>•  Knowledge in computational modeling for detecting Novel ISO Forms using PAC BIO long reads and smartlnk tools to uncover novel genetic ISO Forms.
-          <br>•  Additional work in brain stimulation and neuro performance using tDCS and TMS in the brain to improve brain performance on various tasks.v
+
+            <mark>Current Research Topics</mark>
+            <br>• Focuses on neuromodulation in understanding disease states, including TMS, tACS, tDCS, and neuromodulation to Aging, Parkinson's, Stroke, and other diseases
+            <br>• Developing novel brain stimulation methods and neuro-enhancing performance methods using tDCS and TMS in the brain to improve brain performance on various tasks
+            <br>• Advanced data mining and algorithm design for analyzing large-scale data sets to ensure equitable distribution in society
+
+            <mark>Past Research</mark>
+            <br>• Evaluation of long-read data to uncover rare diseases in isoform and RNA.
+            <br>• Development of a new predictive algorithm (DARNN / GAN / LSTM) to determine Covid infection from wastewater-derived data
+            <br>• Using deep learning models for detecting Alzheimer's disease using OpenCV by mapping variants to RGB color maps
+            <br>• Knowledge in computational modeling for detecting Novel ISO Forms using PAC BIO long reads and smartlnk tools to uncover novel genetic ISO Forms
+
+            <mark>Research Interests</mark>
+            <br>• Machine Learning, Algorithm design, and data-flow analysis
+            <br>• Data Mining and Data Science
+            <br>• Public Health and Epidemiology
+            <br>• Neuroscience and Neuromodulation
+            <br>• Neurodegenerative Diseases and Cellular Stress
+
+
+            <br>•  <mark>2021 UNLV Impact Award, Community-Based Participatory Research Award, in recognition of your exceptional community engagement </mark>
+            <br>• Executive Committee for Neuroscience in 2021 and 2022
 
 
 
