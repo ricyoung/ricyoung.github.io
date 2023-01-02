@@ -278,8 +278,7 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-         Technical reviewer for Packt Publishing's Data Engineering and Data Science books. Topics include: iterative workflow, Data sourcing, Data Magement, Machine learning, R, Python, Data visualization, Data engineering, Data science, and Data engineering.
-
+          Technical reviewer for Packt Publishing's Data Engineering and Data Science books. Topics include: Iterative workflow, data sourcing, data management, machine learning, R, Python, data visualization, data engineering, data science, and data engineering.
 
 
       - layout: top-middle
