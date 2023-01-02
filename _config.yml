@@ -90,7 +90,7 @@ content:
         # link_text: Optum
         sub_title: ML Researcher Assistant - Brain-Dervied Data
         caption: Oct 2022 - Present
-        quote:  Brain-Dervied data is a new field of research that is using machine learning to analyze brain data to help with the diagnosis of neurological disorders.
+        # quote:  Brain-Dervied data is a new field of research that is using machine learning to analyze brain data to help with the diagnosis of neurological disorders.
 
         description:  # | this will include new lines to allow paragraphs
               <br>• Streamlined research processes to meet tight deadlines for multiple projects and clients
@@ -192,6 +192,7 @@ content:
         quote: My research focuses on advancing our understanding of <mark>Human Disease</mark> by using data fusion, deep learning, computational neuroscience, and brain stimulation. I am currently working on a project to analyze the brain and body in order to better understand the disease pathology in relation to advance brain stimulation and its underlying pathways.
 
         description:  # | this will include new lines to allow paragraphs
+            <mark>2021 UNLV Impact Award, Community-Based Participatory Research Award, in recognition of your exceptional community engagement </mark>
 
             <mark>Current Research Topics</mark>
             <br>• Focuses on neuromodulation in understanding disease states, including TMS, tACS, tDCS, and neuromodulation to Aging, Parkinson's, Stroke, and other diseases
@@ -211,8 +212,6 @@ content:
             <br>• Neuroscience and Neuromodulation
             <br>• Neurodegenerative Diseases and Cellular Stress
 
-
-            <br>•  <mark>2021 UNLV Impact Award, Community-Based Participatory Research Award, in recognition of your exceptional community engagement </mark>
             <br>• Executive Committee for Neuroscience in 2021 and 2022
 
 
