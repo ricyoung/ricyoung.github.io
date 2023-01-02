@@ -89,7 +89,7 @@ content:
         # link: https://www.optum.com/
         # link_text: Optum
         sub_title: ML Researcher Assistant - Brain-Dervied Data
-        caption: Nov 2022 - Present
+        caption: Oct 2022 - Present
         quote:  Brain-Dervied data is a new field of research that is using machine learning to analyze brain data to help with the diagnosis of neurological disorders.
 
         description:  # | this will include new lines to allow paragraphs
@@ -224,7 +224,7 @@ content:
 
       - layout: left
         sub_title: University of Nevada, Las Vegas
-        caption: 2021 - Current
+        caption: Fall 2021 - Spring 2023
         title: Master of Science in Data Analytics
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
