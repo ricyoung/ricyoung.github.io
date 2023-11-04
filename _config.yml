@@ -71,8 +71,8 @@ content:
 
         description:  # | this will include new lines to allow paragraphs
 
-          <br><strong>United States Patent</stong> (nonprovisional patent)|
-          <br><strong>Institutional Review Board (IRB) member, United Health Group</stong>| As a Scientist on the Institutional Review Board (IRB) at UnitedHealth Group, a Fortune 5 company, I occupy a rare and pivotal role on one of UHG's most influential boards. The IRB, primarily composed of physicians, oversees critical ethical considerations and patient safety, my position as a scientist is both unique and instrumental in shaping decisions that impact over 100 million Americans annually.
+          sub_title: United States Patent <br><br>
+          sub_title: Institutional Review Board (IRB) member, United Health Group  <br> | As a Scientist on the Institutional Review Board (IRB) at UnitedHealth Group, a Fortune 5 company, I occupy a rare and pivotal role on one of UHG's most influential boards. The IRB, primarily composed of physicians, oversees critical ethical considerations and patient safety, my position as a scientist is both unique and instrumental in shaping decisions that impact over 100 million Americans annually.
 
 
           <br>•	Prepared and submitted multiple terabytes of data to federal agencies, facilitating successful merger through collaboration with 10+ departments and external legal teams. Engaged in two multi-billion-dollar interactions with FTC and DOJ, ensuring seamless communication and timely data provision.
