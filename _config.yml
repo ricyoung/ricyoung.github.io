@@ -71,20 +71,20 @@ content:
 
         description:  # | this will include new lines to allow paragraphs
 
-          sub_title: United States Patent <br><br>
-          sub_title: Institutional Review Board (IRB) member, United Health Group  <br> | As a Scientist on the Institutional Review Board (IRB) at UnitedHealth Group, a Fortune 5 company, I occupy a rare and pivotal role on one of UHG's most influential boards. The IRB, primarily composed of physicians, oversees critical ethical considerations and patient safety, my position as a scientist is both unique and instrumental in shaping decisions that impact over 100 million Americans annually.
+          # sub_title: United States Patent <br><br>
+          # sub_title: Institutional Review Board (IRB) member, United Health Group  <br> | As a Scientist on the Institutional Review Board (IRB) at UnitedHealth Group, a Fortune 5 company, I occupy a rare and pivotal role on one of UHG's most influential boards. The IRB, primarily composed of physicians, oversees critical ethical considerations and patient safety, my position as a scientist is both unique and instrumental in shaping decisions that impact over 100 million Americans annually.
 
 
-          <br>•	Prepared and submitted multiple terabytes of data to federal agencies, facilitating successful merger through collaboration with 10+ departments and external legal teams. Engaged in two multi-billion-dollar interactions with FTC and DOJ, ensuring seamless communication and timely data provision.
-          <br>•	Achieved 100% compliance rate in 16 consecutive audits, ensuring total adherence to PHI, PII, PCI, and HIPAA standards and reduced data integrity incidents by 99%, safeguarding business operations and reputational risk.
-          <br>•	Developed and maintained AI algorithms for predictive analytics, increasing forecast accuracy by 88% and contributing to a 200% rise in strategic initiative success rates.
-          <br>•	Developed or enhanced 100+ algorithms, driving operational efficiencies across multiple business functions.
-          <br>•	Accelerated data-informed roadmaps and successfully prioritized 5+ projects, leading to an estimated 78% increase in revenue.
-          <br>•	Optimized clinical operations workflows by designing and implementing algorithm-based automation, reducing labor requirements by 5 FTEs and generating over $1.000,000 in annual cost savings.
-          <br>•	Spearheaded performance monitoring project increasing patient volume, cost-saving of $350,000+ year over year while increasing patient safety.
-          <br>•	Supported eight business units with improved forecasts, influencing 25+ strategic decisions annually.
-          <br>•	Utilized advanced SQL to optimize database queries, leading to a reduction in data retrieval times by 500%, enhancing user experience, decreasing server utilization, and increasing productivity for business users.
-          <br>•	Leveraged Python to automate data cleansing and integration processes, leading to a 99% improvement in data quality and a 100% reduction in security compliance.
+            <br>•	Prepared and submitted multiple terabytes of data to federal agencies, facilitating successful merger through collaboration with 10+ departments and external legal teams. Engaged in two multi-billion-dollar interactions with FTC and DOJ, ensuring seamless communication and timely data provision.
+            <br>•	Achieved 100% compliance rate in 16 consecutive audits, ensuring total adherence to PHI, PII, PCI, and HIPAA standards and reduced data integrity incidents by 99%, safeguarding business operations and reputational risk.
+            <br>•	Developed and maintained AI algorithms for predictive analytics, increasing forecast accuracy by 88% and contributing to a 200% rise in strategic initiative success rates.
+            <br>•	Developed or enhanced 100+ algorithms, driving operational efficiencies across multiple business functions.
+            <br>•	Accelerated data-informed roadmaps and successfully prioritized 5+ projects, leading to an estimated 78% increase in revenue.
+            <br>•	Optimized clinical operations workflows by designing and implementing algorithm-based automation, reducing labor requirements by 5 FTEs and generating over $1.000,000 in annual cost savings.
+            <br>•	Spearheaded performance monitoring project increasing patient volume, cost-saving of $350,000+ year over year while increasing patient safety.
+            <br>•	Supported eight business units with improved forecasts, influencing 25+ strategic decisions annually.
+            <br>•	Utilized advanced SQL to optimize database queries, leading to a reduction in data retrieval times by 500%, enhancing user experience, decreasing server utilization, and increasing productivity for business users.
+            <br>•	Leveraged Python to automate data cleansing and integration processes, leading to a 99% improvement in data quality and a 100% reduction in security compliance.
 
 
 
