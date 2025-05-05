@@ -27,21 +27,18 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.2'
-          bundler-cache: true
+          ruby-version: '3.1'
+          bundler-cache: false
+      - name: Install Bundler
+        run: gem install bundler
       - name: Install Dependencies
-        run: bundle install
-      - name: Debug Info
-        run: |
-          bundle info --path github-pages
-          bundle info --path jekyll
-          bundle exec jekyll --version
+        run: bundle install --jobs 4 --retry 3
       - name: Build Site
-        run: bundle exec jekyll build --trace
+        run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v2
 
   deploy:
     environment:
@@ -52,4 +49,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v3
