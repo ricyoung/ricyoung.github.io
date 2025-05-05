@@ -421,72 +421,53 @@ content:
 
 
 
-  - title:  Profressional Memberships # Title for the section
+  - title: Professional Memberships # Title for the section
     layout: list # Type of content section (list/text)
     content:
 
-      - layout: top-middle #AMIA
+      - layout: top-middle
         sub_title: Association for Information Systems
-        #link: github.com/sproogen
-        link_text: Jan 2023
+        link: https://aisnet.org/
+        link_text: AIS
+        caption: Jan 2023 - Present
         additional_links:
-          - title:  Association for Information Systems
-            icon: fab fa-github
+          - title: Association for Information Systems
+            icon: fas fa-sitemap
             url: https://aisnet.org/
 
-      - layout: top-middle # ACMG
+      - layout: top-middle
         sub_title: American College of Medical Genetics
-        icon: fab fa-binary-lock
-        # sub_title: 2016
-        #link: github.com/sproogen
-        # link_text: Project Website
-        # additional_links:
-        #   - title:  sproogen/modern-resume-theme
-        #     icon: fab fa-github
-        #     url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        # description: | # this will include new lines to allow paragraphs
-        #   I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+        link: https://www.acmg.net/
+        link_text: ACMG
+        caption: 2022 - Present
+        additional_links:
+          - title: American College of Medical Genetics
+            icon: fas fa-dna
+            url: https://www.acmg.net/
 
 
 
-      - layout: top-middle #AMIA
+      - layout: top-middle
         sub_title: International Neuroinformatics Coordinating Facility
-        #link: github.com/sproogen
-        link_text: Aug 2020
+        link: https://www.incf.org/
+        link_text: INCF
+        caption: Aug 2020 - Present
         additional_links:
-          - title:  International Neuroinformatics Coordinating Facility
-            icon: fab fa-github
+          - title: International Neuroinformatics Coordinating Facility
+            icon: fas fa-brain
             url: https://www.incf.org/
-        #   # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #   #   icon: fab fa-github
-        #   #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        # description: | # this will include new lines to allow paragraphs
-        #   I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
 
 
-      - layout: top-middle #AMIA
+      - layout: top-middle
         sub_title: American Medical Informatics Association
-        #link: github.com/sproogen
-        link_text: Aug 2020
+        link: https://amia.org/
+        link_text: AMIA
+        caption: Aug 2020 - Present
         additional_links:
-          - title:  About AMIA
-            icon: fab fa-github
+          - title: About AMIA
+            icon: fas fa-laptop-medical
             url: https://amia.org/about-amia
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #   #   icon: fab fa-github
-        #   #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        # description: | # this will include new lines to allow paragraphs
-        #   I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
 
 
@@ -513,60 +494,42 @@ content:
 
 
 
-      - layout: top-middle #Asa
+      - layout: top-middle
         sub_title: American Statistical Association
-        link: https://www.amstat.org/about-asa
-        link_text: About the ASA
+        link: https://www.amstat.org/
+        link_text: ASA
+        caption: 2019 - Present
         additional_links:
-          - title:  About ASA
-            icon: fab fa-timeline
+          - title: About ASA
+            icon: fas fa-chart-bar
             url: https://www.amstat.org/about-asa
-        #   # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #   #   icon: fab fa-github
-        #   #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        # description: | # this will include new lines to allow paragraphs
-        #   I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
 
 
 
-      - layout: top-middle #AMIA
+      - layout: top-middle
         sub_title: Society for Neuroscience
-        #link: github.com/sproogen
-        # link_text: Aug 2020
-        # additional_links:
-        #   - title:  sproogen/modern-resume-theme
-        #     icon: fab fa-github
-        #     url: github.com/sproogen/modern-resume-theme
-        #   # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #   #   icon: fab fa-github
-        #   #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        # description: | # this will include new lines to allow paragraphs
-        #   I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-
-
-
-
-      - layout: top-middle #AMIA
-        sub_title: American Society of Human Genetics
-        #link: https://www.ashg.org/
-        link_text: Aug 2020
+        link: https://www.sfn.org/
+        link_text: SfN
+        caption: 2020 - Present
         additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-        #   # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #   #   icon: fab fa-github
-        #   #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        # description: | # this will include new lines to allow paragraphs
-        #   I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          - title: Society for Neuroscience
+            icon: fas fa-brain
+            url: https://www.sfn.org/
+
+
+
+
+
+      - layout: top-middle
+        sub_title: American Society of Human Genetics
+        link: https://www.ashg.org/
+        link_text: ASHG
+        caption: 2018 - Present
+        additional_links:
+          - title: American Society of Human Genetics
+            icon: fas fa-dna
+            url: https://www.ashg.org/
 
 
 
@@ -579,34 +542,61 @@ content:
 
 
 
-  - title:  <br><br>Licenses | Certifications # Title for the section
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      <mark>Citi Training</mark> <br>
-      **OptumLabs, University of Nevada, Las Vegas, NIH all require CITI Training**
-          <br> Biomedical Research
-          <br> Biomedical Responsible Conduct of Research
-          <br> Conflicts of interests
-          <br> GCP - Social and Behavioral Research Best Practices for Clinicial Research
-          <br> Public Health Reserach Researchers
-          <br> Group 1. Biomedical IRB Coruse
-          <br> Artificial intelligence (AI) and Human Subject Protections
-          <br> Export Control Training
-          <br> Technology, Ethics, and Regulations
+  - title: Licenses & Certifications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: CITI Training
+        sub_title: Research Ethics and Compliance
+        caption: OptumLabs, University of Nevada, Las Vegas, NIH
+        description: |
+          - Biomedical Research
+          - Biomedical Responsible Conduct of Research
+          - Conflicts of interests
+          - GCP - Social and Behavioral Research Best Practices for Clinical Research
+          - Public Health Research Researchers
+          - Group 1. Biomedical IRB Course
+          - Artificial Intelligence (AI) and Human Subject Protections
+          - Export Control Training
+          - Technology, Ethics, and Regulations
 
-      <br>Achieving Clinical Excellence / Lean Six Sigma Training
+      - layout: top-middle
+        title: Achieving Clinical Excellence
+        sub_title: Lean Six Sigma Training
+        caption: Healthcare Process Improvement
+        description: |
+          - Process optimization methodology
+          - Quality improvement techniques
+          - Data-driven decision making
+          - Responsible Conduct of Research
 
-        *Responsible Conduct of Research*
+      - layout: top-middle
+        title: AWS Training
+        sub_title: Cloud Computing Certifications
+        caption: Amazon Web Services
+        description: |
+          - AWS Technical Essentials
+          - Architecting on AWS
+          - Cloud infrastructure design and implementation
+          - Scalable cloud solutions
 
-        <mark>AWS Training</mark>
-        AWS Technical Essentials
-        Architecting on AWS
+      - layout: top-middle
+        title: Sciex Training
+        sub_title: Capillary Electrophoresis
+        caption: Laboratory Analytical Techniques
+        description: |
+          - Advanced laboratory analytical methods
+          - Sample preparation and analysis
+          - Data interpretation
 
-
-      <br> Sciex - capillary electrophoresis*
-
-        <mark> U.C. Davis</mark>
-        Bioinformatics Training - ISO-Form
+      - layout: top-middle
+        title: U.C. Davis Training
+        sub_title: Bioinformatics - ISO-Form
+        caption: Genomic Analysis
+        description: |
+          - Specialized training in isoform analysis
+          - Genomic data processing
+          - Computational biology techniques
 
 
 
