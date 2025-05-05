@@ -1,29 +1,47 @@
 {% for item in include.content %}
-  <div class="row clearfix layout layout-{{item.layout | default: 'left'}} border-{{item.border | default: 'no'}}">
-    <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 details">
-      <h4 id="{{ item.title | slugify }}">{{ item.title }}</h4>
-      {%- if item.sub_title -%}<p><b>{{ item.sub_title }}</b></p>{%- endif -%}
-      {%- if item.caption -%}<p>{{ item.caption }}</p>{%- endif -%}
+  <div class="row mb-4 py-3 border-bottom">
+    <div class="col-12 col-md-4 mb-3 mb-md-0">
+      {% if item.title %}
+        <h4 id="{{ item.title | slugify }}" class="fw-bold mb-1">{{ item.title }}</h4>
+      {% endif %}
+      
+      {% if item.sub_title %}
+        <p class="text-primary fw-bold mb-1">{{ item.sub_title }}</p>
+      {% endif %}
+      
+      {% if item.caption %}
+        <p class="text-muted">{{ item.caption }}</p>
+      {% endif %}
 
-      {%- if item.link -%}
-        {% include a.html href=item.link class="link" %}
-          {%- if item.link_text -%}{{ item.link_text }}{%- else -%}{{ item.link }}{%- endif -%}
+      {% if item.link %}
+        <a href="{{ item.link }}" target="_blank" class="btn btn-sm btn-outline-primary mb-2">
+          {% if item.link_text %}{{ item.link_text }}{% else %}{{ item.link }}{% endif %}
         </a>
-      {%- endif -%}
+      {% endif %}
 
-      <p class="no-print aditional-links">
-        {% for link in item.additional_links %}
-          {% include a.html href=link.url class="" %}
-            <i class="{{ link.icon }}" title="{{ link.title | escape }}"></i>
-          </a>
-        {% endfor %}
-      </p>
+      {% if item.additional_links.size > 0 %}
+        <div class="additional-links mt-2">
+          {% for link in item.additional_links %}
+            <a href="{{ link.url }}" target="_blank" class="btn btn-sm btn-outline-secondary me-1 mb-1">
+              <i class="{{ link.icon }} me-1"></i> {{ link.title }}
+            </a>
+          {% endfor %}
+        </div>
+      {% endif %}
     </div>
-    <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
-      {%- if item.quote -%}
-        <p class="quote">{{ item.quote }}</p>
-      {%- endif -%}
-      {{ item.description | strip | markdownify }}
+    
+    <div class="col-12 col-md-8">
+      {% if item.quote %}
+        <div class="card bg-light mb-3">
+          <div class="card-body py-2 px-3">
+            <p class="card-text fst-italic">{{ item.quote }}</p>
+          </div>
+        </div>
+      {% endif %}
+      
+      <div class="job-description">
+        {{ item.description | strip | markdownify }}
+      </div>
     </div>
   </div>
 {% endfor %}
