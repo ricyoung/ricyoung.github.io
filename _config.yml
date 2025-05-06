@@ -808,7 +808,7 @@ content:
       - Supporting STEM education programs in underserved communities
 
 # Footer
-footer_show_references: true
+footer_show_references: true # Updated reference footer
 # references_title: References on request (Override references text)
 
 # Build settings
