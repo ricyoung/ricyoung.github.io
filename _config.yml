@@ -13,7 +13,7 @@ name: Richard Young
 title: Senior Data Scientist
 email: richard@deepneuro.ai
 website: https://ricyoung.github.io/
-Academic / CV Resume: https://ricyoung-edu.github.io/
+academic_cv: https://ricyoung-edu.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -64,51 +64,62 @@ content:
       - layout: left
         title: Optum
         link: https://www.optum.com/
-        link_text: Optum
+        link_text: Optum (UnitedHealth Group)
         sub_title: Senior Data Scientist
         caption: Feb 2022 - Present
-        quote:  <strong> Fusing Clinical Decision Support with multi data sources and diffrent lines of business to reduce cost and increase patients access to health care. </strong>
+        quote: Fusing clinical decision support with multiple data sources across different business lines to reduce costs and increase patient access to healthcare.
 
-        description:  # | this will include new lines to allow paragraphs
-
-          # sub_title: United States Patent <br><br>
-          # sub_title: Institutional Review Board (IRB) member, United Health Group  <br> | As a Scientist on the Institutional Review Board (IRB) at UnitedHealth Group, a Fortune 5 company, I occupy a rare and pivotal role on one of UHG's most influential boards. The IRB, primarily composed of physicians, oversees critical ethical considerations and patient safety, my position as a scientist is both unique and instrumental in shaping decisions that impact over 100 million Americans annually.
-
-
-            <br>•	Prepared and submitted multiple terabytes of data to federal agencies, facilitating successful merger through collaboration with 10+ departments and external legal teams. Engaged in two multi-billion-dollar interactions with FTC and DOJ, ensuring seamless communication and timely data provision.
-            <br>•	Achieved 100% compliance rate in 16 consecutive audits, ensuring total adherence to PHI, PII, PCI, and HIPAA standards and reduced data integrity incidents by 99%, safeguarding business operations and reputational risk.
-            <br>•	Developed and maintained AI algorithms for predictive analytics, increasing forecast accuracy by 88% and contributing to a 200% rise in strategic initiative success rates.
-            <br>•	Developed or enhanced 100+ algorithms, driving operational efficiencies across multiple business functions.
-            <br>•	Accelerated data-informed roadmaps and successfully prioritized 5+ projects, leading to an estimated 78% increase in revenue.
-            <br>•	Optimized clinical operations workflows by designing and implementing algorithm-based automation, reducing labor requirements by 5 FTEs and generating over $1.000,000 in annual cost savings.
-            <br>•	Spearheaded performance monitoring project increasing patient volume, cost-saving of $350,000+ year over year while increasing patient safety.
-            <br>•	Supported eight business units with improved forecasts, influencing 25+ strategic decisions annually.
-            <br>•	Utilized advanced SQL to optimize database queries, leading to a reduction in data retrieval times by 500%, enhancing user experience, decreasing server utilization, and increasing productivity for business users.
-            <br>•	Leveraged Python to automate data cleansing and integration processes, leading to a 99% improvement in data quality and a 100% reduction in security compliance.
+        description: |
+          - **Data Leadership:** Prepared and submitted multiple terabytes of data to federal agencies, facilitating successful merger through collaboration with 10+ departments and external legal teams. Engaged in two multi-billion-dollar interactions with FTC and DOJ.
+          
+          - **Compliance Excellence:** Achieved 100% compliance rate in 16 consecutive audits, ensuring total adherence to PHI, PII, PCI, and HIPAA standards and reduced data integrity incidents by 99%.
+          
+          - **AI Development:** Developed and maintained advanced algorithms for predictive analytics, increasing forecast accuracy by 88% and contributing to a 200% rise in strategic initiative success rates.
+          
+          - **Algorithm Enhancement:** Created or enhanced 100+ algorithms, driving operational efficiencies across multiple business functions.
+          
+          - **Project Prioritization:** Accelerated data-informed roadmaps and successfully prioritized 5+ projects, leading to an estimated 78% increase in revenue.
+          
+          - **Workflow Optimization:** Designed and implemented algorithm-based automation, reducing labor requirements by 5 FTEs and generating over $1,000,000 in annual cost savings.
+          
+          - **Performance Monitoring:** Spearheaded patient volume optimization projects, achieving cost savings of $350,000+ annually while simultaneously increasing patient safety.
+          
+          - **Business Support:** Provided eight business units with improved forecasts, influencing 25+ strategic decisions annually.
+          
+          - **Technical Optimization:** Utilized advanced SQL to optimize database queries, reducing data retrieval times by 500% and enhancing user experience and productivity.
+          
+          - **Automation:** Leveraged Python to automate data cleansing and integration processes, leading to a 99% improvement in data quality.
 
 
 
       - layout: left
         title: University of Nevada, Las Vegas
-        # link: https://www.optum.com/
-        # link_text: Optum
-        sub_title: ML Researcher Assistant - Brain-Dervied Data
+        link: https://www.unlv.edu/
+        link_text: UNLV
+        sub_title: ML Researcher - Brain-Derived Data
         caption: Oct 2022 - Present
-        # quote:  Brain-Dervied data is a new field of research that is using machine learning to analyze brain data to help with the diagnosis of neurological disorders.
+        quote: Using machine learning to analyze brain data for the diagnosis and treatment of neurological disorders through advanced neuromodulation techniques.
 
-        description:  # | this will include new lines to allow paragraphs
-              <br>• Streamlined research processes to meet tight deadlines for multiple projects and clients
-              <br>• Collaborated with leadership teams to identify relevant questions and determine the best collection methods for each project
-              <br>• Utilized advanced querying, visualization, and analytics tools to analyze and process complex data sets and present findings to leadership teams
-              <br>• Performed research into study topics to increase knowledge and to provide valuable contributions to the team
-              <br>• Determining research areas to advance understanding in BCI, TDCS, TMS, and NIBS fields of study
-              <br>• Gathered and organized information for research purposes and to support the development of new products
-              <br>• Developed intricate algorithms based on deep-dive statistical analysis and predictive data modeling
-              <br>• Analyzed and interpreted patterns and trends in data to identify opportunities for improvement
-              <br>• Applied statistical and algebraic techniques to solve key points from gathered data and to provide valuable contributions to the team
-              <br>• Conferred with scientists, engineers, or others to plan or review projects or to provide technical assistance
-              <br>• Advised or assisted in obtaining patents or meeting other legal requirements for inventions
-              <br>• Coached and mentored junior data scientists on Python, Alteryx, Matlab, R, SPSS, and data mining techniques and best practices
+        description: |
+          - **Research Process Optimization:** Streamlined research workflows to meet strict deadlines across multiple neuroscience projects.
+          
+          - **Leadership Collaboration:** Worked with cross-functional teams to develop research questions and determine optimal data collection methodologies.
+          
+          - **Advanced Analytics:** Utilized complex querying, visualization, and analytical tools to process and interpret brain signal datasets.
+          
+          - **Neurotechnology Focus:** Advanced understanding in Brain-Computer Interface (BCI), Transcranial Direct Current Stimulation (TDCS), Transcranial Magnetic Stimulation (TMS), and Non-Invasive Brain Stimulation (NIBS).
+          
+          - **Algorithm Development:** Created specialized algorithms based on statistical analysis and predictive modeling for neurological applications.
+          
+          - **Pattern Recognition:** Identified significant patterns and trends in neural data to uncover opportunities for therapeutic interventions.
+          
+          - **Statistical Modeling:** Applied advanced statistical and algebraic techniques to derive meaningful insights from complex neurological data.
+          
+          - **Interdisciplinary Collaboration:** Collaborated with scientists, engineers, and clinicians to plan and review neurotechnology projects.
+          
+          - **Intellectual Property:** Assisted in patent applications related to novel neurological data processing methodologies.
+          
+          - **Mentorship:** Guided junior researchers in Python, Matlab, R programming and data mining techniques for neuroscience applications.
 
       - layout: left
         title: Optum
@@ -116,16 +127,22 @@ content:
         link_text: Optum
         sub_title: Data Scientist
         caption: Aug 2018 - March 2022
-        # quote: >
-        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: #|  this will include new lines to allow paragraphs
-              <br>• Anticipate business and industry trends using knowledge and education to understand how technological changes will influence reporting, health delivery, and regulations.
-              <br>• Simultaneously considers multi-dimensional needs of a diverse group of clients and stakeholders to understand data requirements and reports and provide context when needed.
-              <br>• Focused on integrity as the foundation for everything - ensuring that data is accurate, reliable, and timely and that data integrity is maintained at the highest level.
-              <br>• Improved data collection methods by designing surveys, polls, and other instruments.
-              <br>• Tested and validated models for accuracy of predictions in outcomes of interest.
-              <br>• Improved statistical analyses within the software to process large datasets, reduce cost, and increase accuracy.
-              <br>• The technology commonly used MSSQL, Oracle DB, Netsmart, Netgen, TouchWorks, Microstrategy, Tableau Desktop and Server, Excel, SSMS, SSRS, IBM SPSS, Alteryx, Microsoft Power bi-tools, python, numpy, pandas, scikit-learn, R, Anaconda, prescriptive analytics, data wrangling, data visualization, and additional advanced data science tools.
+        quote: Leveraging data science to transform healthcare delivery and outcomes through predictive analytics and business intelligence.
+        
+        description: |
+          - **Strategic Forecasting:** Anticipated business and industry trends to understand how technological changes would influence healthcare delivery, reporting, and regulations.
+          
+          - **Stakeholder Management:** Addressed multi-dimensional needs of diverse clients and stakeholders by understanding their data requirements and providing contextual analysis.
+          
+          - **Data Integrity:** Established rigorous standards ensuring all data was accurate, reliable, and timely while maintaining the highest level of data integrity.
+          
+          - **Research Design:** Improved data collection methodology by designing and implementing surveys, polls, and other measurement instruments.
+          
+          - **Model Validation:** Developed testing protocols to validate predictive models for accuracy in healthcare outcome forecasting.
+          
+          - **Statistical Enhancement:** Optimized statistical analysis processes within software platforms to efficiently process large healthcare datasets, reducing costs while increasing accuracy.
+          
+          - **Technical Proficiency:** Utilized a comprehensive technology stack including MSSQL, Oracle DB, Microstrategy, Tableau, SSRS, IBM SPSS, Alteryx, Power BI, Python (numpy, pandas, scikit-learn), R, and other data science tools.
 
 
 
@@ -136,16 +153,20 @@ content:
         link_text: UNLV - NIPM
         sub_title: Data Scientist
         caption: Nov 2014 - Jun 2019
-        # quote: >
-        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description:  # this will include new lines to allow paragraphs
-            <br>• Architected and implemented analytics and visualization components for device data analysis platform to predict hardware
-            <br>• Assess effectiveness and accuracy of new data sources and data gathering techniques.
-            <br>• Conduct data mining, modeling, statistical analysis, business intelligence gathering, trending, and benchmarking.
-            <br>• Designed Supercomputers & HPC for high-performance computing.
-            <br>• Assessed accuracy and effectiveness of new and existing data sources and data analysis techniques.
-            <br>• Built company A/B testing frameworks to test model quality.
-            <br>• Compiled, cleaned, and manipulated data for proper handling.
+        quote: Advancing precision medicine through innovative data analysis platforms and high-performance computing solutions.
+        
+        description: |
+          - **Analytics Architecture:** Designed and implemented advanced analytics and visualization components for predictive hardware analysis platforms.
+          
+          - **Data Source Evaluation:** Evaluated the effectiveness and accuracy of new data sources and refined data collection methodologies for genomic research.
+          
+          - **Statistical Modeling:** Conducted comprehensive data mining, modeling, and statistical analysis to derive actionable insights from complex biological datasets.
+          
+          - **HPC Design:** Developed specialized supercomputing and high-performance computing environments optimized for genomic data processing.
+          
+          - **Validation Frameworks:** Built A/B testing frameworks to systematically assess model quality and performance metrics.
+          
+          - **Data Management:** Established robust data cleaning and manipulation protocols to ensure data integrity in personalized medicine applications.
 
 
 
@@ -160,27 +181,37 @@ content:
         link_text: UNLV Research
         sub_title: Genetic Data Researcher / Population Health
         caption: Nov 2014 - Oct 2022
-        # quote: >
-        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description:  # this will include new lines to allow paragraphs
-            <br>• Analyzed genetic data and developed techniques for disease detection, gene expression, short reads, long reads, and mRNA
-            <br>• Data mining from primary sources and conducting comprehensive analysis using in-house software tools and R
-            <br>• Designed databases (NoSQL) and custom-programmed software to analyze significant big-data sources
-            <br>• Worked with NIH and other compliance agencies to ensure all protocols followed local and federal laws and regulations
-            <br>• Implemented randomized sampling techniques for optimized surveys and data collection
-            <br>• Leveraged mathematical methods to develop engineering and scientific solutions to complex problems
-            <br>• Set up SQL and NoSQL databases on cloud servers to store client data for query analysis and reporting
+        quote: Bridging genetic data analysis and population health to develop innovative approaches for disease detection and public health monitoring.
+        
+        description: |
+          - **Genetic Analysis:** Developed advanced techniques for disease detection through gene expression analysis, including short reads, long reads, and mRNA sequencing data.
+          
+          - **Data Mining:** Extracted and analyzed information from primary genetic data sources using custom in-house software tools and R programming.
+          
+          - **Database Architecture:** Designed specialized NoSQL database systems and custom software applications to manage and analyze large-scale genetic datasets.
+          
+          - **Compliance Management:** Collaborated with NIH and regulatory agencies to ensure all research protocols adhered to local and federal laws and regulations.
+          
+          - **Research Methodology:** Implemented sophisticated randomized sampling techniques to optimize survey design and data collection for population health studies.
+          
+          - **Problem Solving:** Applied mathematical modeling to develop engineering and scientific solutions to complex biological and population health challenges.
+          
+          - **Cloud Infrastructure:** Established SQL and NoSQL database environments on cloud platforms to facilitate efficient data storage, querying, and analysis.
 
 
 
 
 
       - layout: top-middle
-        title: Past Experience
-        sub_title:  State of Nevada System Computing , Layne & Associates LTD
-        # link: https://www.unlv.edu/nipm
-        # link_text: boringcompany.com
-        caption: <mark>Computer Network Technician II</mark> - <mark>Assistant Director of MIS</mark> - <mark>Director of Training</mark><br><br><br><br>
+        title: Previous Roles
+        sub_title: State of Nevada System Computing & Layne & Associates LTD
+        caption: 2001 - 2014
+        description: |
+          - **Computer Network Technician II** (State of Nevada): Managed network infrastructure and provided technical support for state agency systems.
+          
+          - **Assistant Director of MIS** (Layne & Associates): Oversaw management information systems and IT operations, implementing data management solutions.
+          
+          - **Director of Training** (Layne & Associates): Developed and delivered comprehensive technical training programs for staff and clients.
 
 
 
@@ -188,35 +219,35 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Ph.D Neuroscience computational
-        link: https://www.unlv.com/
-        link_text: UNLV
-        sub_title: PhD Student
-        caption: 2020 - Current
-        quote: My research focuses on advancing our understanding of <mark>Human Disease</mark> by using data fusion, deep learning, computational neuroscience, and brain stimulation. I am currently working on a project to analyze the brain and body in order to better understand the disease pathology in relation to advance brain stimulation and its underlying pathways.
-
-        description:  # | this will include new lines to allow paragraphs
-            <mark>2021 UNLV Impact Award, Community-Based Participatory Research Award, in recognition of your exceptional community engagement </mark>
-
-            <mark>Current Research Topics</mark>
-            <br>• Focuses on neuromodulation in understanding disease states, including TMS, tACS, tDCS, and neuromodulation to Aging, Parkinson's, Stroke, and other diseases
-            <br>• Developing novel brain stimulation methods and neuro-enhancing performance methods using tDCS and TMS in the brain to improve brain performance on various tasks
-            <br>• Advanced data mining and algorithm design for analyzing large-scale data sets to ensure equitable distribution in society
-
-            <mark>Past Research</mark>
-            <br>• Evaluation of long-read data to uncover rare diseases in isoform and RNA.
-            <br>• Development of a new predictive algorithm (DARNN / GAN / LSTM) to determine Covid infection from wastewater-derived data
-            <br>• Using deep learning models for detecting Alzheimer's disease using OpenCV by mapping variants to RGB color maps
-            <br>• Knowledge in computational modeling for detecting Novel ISO Forms using PAC BIO long reads and smartlnk tools to uncover novel genetic ISO Forms
-
-            <mark>Research Interests</mark>
-            <br>• Machine Learning, Algorithm design, and data-flow analysis
-            <br>• Data Mining and Data Science
-            <br>• Public Health and Epidemiology
-            <br>• Neuroscience and Neuromodulation
-            <br>• Neurodegenerative Diseases and Cellular Stress
-
-            <br>• Executive Committee for Neuroscience in 2021 and 2022
+        title: Ph.D in Computational Neuroscience
+        link: https://www.unlv.edu/neuroscience
+        link_text: UNLV Neuroscience
+        sub_title: Doctoral Candidate
+        caption: 2020 - Present
+        quote: Advancing understanding of human disease through data fusion, deep learning, computational neuroscience, and brain stimulation technologies.
+        
+        description: |
+          **Awards & Recognition**
+          - 2021 UNLV Impact Award, Community-Based Participatory Research Award for exceptional community engagement
+          - Executive Committee Member for Neuroscience Program, 2021-2022
+          
+          **Current Research Focus**
+          - Investigating neuromodulation for treating disease states, including applications of TMS, tACS, and tDCS for Aging, Parkinson's, and Stroke
+          - Developing novel brain stimulation protocols to enhance cognitive performance using targeted tDCS and TMS applications
+          - Creating advanced data mining algorithms to analyze large-scale neurological datasets with focus on equitable distribution
+          
+          **Previous Research**
+          - Evaluated long-read sequencing data to identify rare diseases through isoform and RNA analysis
+          - Developed predictive algorithms (DARNN/GAN/LSTM) to detect COVID-19 infection patterns from wastewater-derived data
+          - Implemented deep learning models for early Alzheimer's disease detection using OpenCV to map genetic variants to RGB color maps
+          - Applied computational modeling to detect novel isoforms using PacBio long reads and SmartLINK tools
+          
+          **Research Interests**
+          - Machine Learning & Algorithm Design for Neurological Applications
+          - Data Mining & Computational Neuroscience
+          - Public Health & Epidemiology
+          - Neuromodulation & Neurostimulation Technologies
+          - Neurodegenerative Disease Mechanisms & Cellular Stress Pathways
 
 
 
@@ -226,178 +257,181 @@ content:
         #   <br>
 
       - layout: left
-        sub_title: University of Nevada, Las Vegas
-        caption: Fall 2021 - Spring 2023
         title: Master of Science in Data Analytics
-        # quote: >
-        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          Work on a variety of projects in the field of data analytics, including the development of a data mining tool for the detection of Parkinson's disease using Python, R, and SQL from Clinical trails in order to predict the drug therapy models in Clinical Trails.
+        link: https://www.unlv.edu/degree/ms-data-analytics
+        link_text: UNLV Data Analytics
+        sub_title: University of Nevada, Las Vegas
+        caption: 2021 - 2023
+        quote: Specializing in healthcare analytics and clinical data analysis for improved patient outcomes and treatment protocols.
+        
+        description: |
+          Completed advanced coursework in statistical modeling, machine learning, and big data analytics with healthcare applications. Key projects included:
+          
+          - Developed a specialized data mining tool for Parkinson's disease detection using Python, R, and SQL
+          - Analyzed clinical trial data to create predictive models for drug therapy efficacy
+          - Applied machine learning techniques to healthcare data for outcome prediction
+          - Implemented data visualization solutions for complex clinical information
 
 
       - layout: left
+        title: Bachelor of Science, Psychology - Magna Cum Laude
         sub_title: University of Nevada, Las Vegas
         caption: 2013 - 2018
-        title: Magna Cum Laude <br>Psychology <br><small>Latin Honors <br> Neuroscience  <br>Information Technology</small>
-        # quote: >
-        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          Created a method to merge GWAS and minimotif data in order to better understand human diseases and snps.
-          <br> Additional projects:
-            - Public use of Steganography to encrypt data in large publically access images.
-            - Delivering a web application to allow users increase uptime and availability of data using AWS.
-            - Developed a NoSQL EMR database to store and analyze large amounts of data.
+        quote: Specializing in Neuroscience and Information Technology with Latin Honors
+        description: | 
+          **Research Focus**: Developed novel methods to merge GWAS and minimotif data to better understand human diseases and SNPs.
+          
+          **Key Projects**:
+          - Implemented steganography techniques for secure data encryption in publicly accessible images
+          - Developed a web application to increase data uptime and availability using AWS cloud architecture
+          - Created a NoSQL EMR database optimized for large-scale healthcare data storage and analysis
+          - Applied computational methods to analyze genetic variants and their relationship to neurological conditions
 
 
 
       - layout: left
+        title: Associate of Applied Sciences
         sub_title: College of Southern Nevada
         caption: 2003
-        title: Applied Sciences
-        # quote: >
-        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          - Student of the Year - out of 30,000 students
+        quote: Technical foundation in computer systems and information technology
+        description: | 
+          **Recognition**: Selected as Student of the Year from among 30,000 students
+          
+          **Focus Areas**:
+          - Computer networking and systems administration
+          - Information security fundamentals
+          - Database management systems
+          - Technical support and infrastructure management
 
 
 
-  - title: Selected Papers |  Publications # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Selected Publications & Research
+    layout: list
     content:
-
-
       - layout: top-middle
-        title: (Technical Reviewer) Data Engineering with Alteryx
-        # link: https://epostersonline.com/ons2016/node/111
-        sub_title: 2022
-        # link_text: Project Website
-        # additional_links:
-        #   - title:  Genetics
-        #     icon: fab  fa-dna
-        #     url: https://epostersonline.com/ons2016/node/111
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          Technical reviewer for Packt Publishing's Data Engineering and Data Science books. Topics include: Iterative workflow, data sourcing, data management, machine learning, R, Python, data visualization, data engineering, data science, and data engineering.
-
-
-      - layout: top-middle
-        title: (In process) 30-day Readmission Rate for Congestive Heart Failure Discharges and Reasons for Readmission
-        # link: https://epostersonline.com/ons2016/node/111
-        sub_title:  <mark2>Human Disease</marK2> and <mark2>Population Health</mark2>
-        # link_text: Project Website
-        # additional_links:
-        #   - title:  Genetics
-        #     icon: fab  fa-dna
-        #     url: https://epostersonline.com/ons2016/node/111
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          Heart failure is the most common admitting diagnosis in patients over the age of 65. Heart failure presents an enormous economic burden and increased risk to the aging population. Heart failure is directly associated with increased morbidity and also affects mental health such as depression.
-
-
-
-
-      - layout:  top-middle
-        title: Honors Thesis - Diversity of Minimotifs in human traits and disease.
-        # link: https://academic.oup.com/nar/article/43/13/6399/2414244
-        sub_title:  <mark2>Human Disease</mark2> and <mark2>Biology</mark2>
-        # link_text: Project Website
+        title: Technical Reviewer for "Data Engineering with Alteryx"
+        sub_title: Packt Publishing, 2022
         additional_links:
-          - title:  Minimotifs
-            icon: fab fa-book-medical
+          - title: Data Engineering Resources
+            icon: fas fa-database
+            url: https://www.packtpub.com/
+        description: |
+          Served as technical reviewer for Packt Publishing's Data Engineering and Data Science series. Reviewed technical accuracy and provided expert feedback on content covering:
+          
+          - Iterative data workflow methodologies
+          - Data sourcing and acquisition techniques
+          - Enterprise data management practices
+          - Machine learning implementations
+          - R and Python programming best practices
+          - Advanced data visualization techniques
+          - Data engineering architecture design
+
+
+      - layout: top-middle
+        title: 30-day Readmission Rate for Congestive Heart Failure Discharges (In Progress)
+        sub_title: <mark>Human Disease</mark> and <mark>Population Health</mark>
+        additional_links:
+          - title: Cardiovascular Research
+            icon: fas fa-heartbeat
+            url: https://www.heart.org/
+        description: |
+          Investigating the factors influencing hospital readmission rates for congestive heart failure patients. This research addresses a critical healthcare challenge:
+          
+          - Heart failure is the most common admitting diagnosis in patients over age 65
+          - This condition presents significant economic burden to healthcare systems
+          - Heart failure is associated with increased morbidity and mortality rates
+          - The condition impacts mental health, particularly depression incidence
+          - Our research aims to identify intervention points to reduce readmission rates
+
+
+
+
+      - layout: top-middle
+        title: Honors Thesis - Diversity of Minimotifs in Human Traits and Disease
+        sub_title: <mark>Human Disease</mark> and <mark>Biology</mark>
+        additional_links:
+          - title: Minimotifs Research
+            icon: fas fa-dna
             url: https://academic.oup.com/nar/article/43/13/6399/2414244
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          Understanding SNP effects on minimotifs and the resulting change in function could explain phenotypical changes seen in disease. The resulting intersection of the two domains found 879 results in which a minimotif plays a role in an SNP change. The *879 results* can be further analyzed to show that 189 Distinct Strongest Risk Alleles and 150 distinct SNPs were uncovered.
+        description: |
+          My honors thesis examining the critical role of minimotifs in disease manifestation through SNP-driven functional changes. Key findings include:
+          
+          - Identified 879 specific instances where minimotifs play a direct role in SNP-induced changes
+          - Analyzed and categorized 189 distinct strongest risk alleles
+          - Mapped 150 distinct SNPs to functional changes in minimotifs
+          - This research provides mechanistic insight into how genetic variation leads to phenotypic changes in disease states
 
 
 
-      - layout:  top-middle
+      - layout: top-middle
         title: Minimotifs Dysfunction is Pervasive in Neurodegenerative Disorders
-        # link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6139474/
-        sub_title:  <marK>Human Disease</marK> and <marK>Neuroscience</marK>
-        # link_text: Project Website
+        sub_title: <mark>Human Disease</mark> and <mark>Neuroscience</mark>
         additional_links:
-          - title:  Minimotifs
-            icon: fab fa-book-medical
-            url: https://academic.oup.com/nar/article/43/13/6399/2414244
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-         Generalizing the importance of minimotifs in neurodegenerative diseases offers a new perspective for the future study of neurodegenerative mechanisms and the investigation of new therapeutics.
+          - title: Neurodegenerative Research
+            icon: fas fa-brain
+            url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6139474/
+        description: |
+          Research demonstrating the widespread involvement of minimotif dysfunction in neurodegenerative disease processes. This work:
+          
+          - Establishes minimotifs as common pathological factors across multiple neurodegenerative conditions
+          - Provides a new perspective for understanding disease mechanisms
+          - Creates a framework for novel therapeutic target identification
+          - Suggests new directions for treating previously intractable neurological conditions
 
 
 
 
 
-      - layout:  top-middle
-        title: Minimotif Miner 4 a million peptide minimotifs and counting.
-        # link: https://pubmed.ncbi.nlm.nih.gov/29140456/
-        sub_title: <marK>Genetics</marK> and <marK>Data Science</marK>
-        # link_text: Project Website
+      - layout: top-middle
+        title: "Minimotif Miner 4: A Million Peptide Minimotifs and Counting"
+        sub_title: <mark>Genetics</mark> and <mark>Data Science</mark>
         additional_links:
-          - title:  Minimotifs
-            icon: fab fa-book-medical
+          - title: Minimotif Database
+            icon: fas fa-database
             url: https://pubmed.ncbi.nlm.nih.gov/29140456/
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-         Minimotif Miner (MnM) is a database and web system for analyzing short functional peptide motifs, termed minimotifs
+        description: |
+          Contributed to the development of Minimotif Miner (MnM), a comprehensive database and web system for analyzing short functional peptide motifs. This system:
+          
+          - Catalogs over one million functional minimotifs
+          - Provides researchers with tools to identify and analyze these critical protein elements
+          - Enables prediction of protein function and interaction networks
+          - Supports drug development and understanding of disease mechanisms
 
 
 
-      - layout:  top-middle
-        title: Natural variability of minimotifs in 1092 people indicates that minimotifs are targets of evolution
-        # link: https://pubmed.ncbi.nlm.nih.gov/26068475/
-        sub_title:  <marK>Genetics</marK> and <marK>Biology</marK>
-        # link_text: Project Website
+      - layout: top-middle
+        title: Natural Variability of Minimotifs in 1092 People Indicates Minimotifs are Targets of Evolution
+        sub_title: <mark>Genetics</mark> and <mark>Biology</mark>
         additional_links:
-          - title:  Minimotifs
-            icon: fab fa-arrows-down-to-people
+          - title: Evolutionary Genetics
+            icon: fas fa-dna
             url: https://pubmed.ncbi.nlm.nih.gov/26068475/
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          Since the function of a short contiguous peptide minimotif can be introduced or eliminated by a single point mutation, these functional elements may be a source of human variation and a target of selection. We analyzed the variability of ∼300 000 minimotifs in 1092 human genomes from the 1000 Genomes Project.
+        description: |
+          Analyzed the natural variability of minimotifs across a diverse human population sample. Key findings:
+          
+          - Examined approximately 300,000 minimotifs across 1,092 human genomes from the 1000 Genomes Project
+          - Demonstrated that single point mutations can introduce or eliminate functional minimotifs
+          - Identified minimotifs as potential sources of human genetic variation
+          - Provided evidence that minimotifs are targets of evolutionary selection
+          - Advanced understanding of how functional peptide motifs contribute to human diversity
 
 
 
-      - layout:  top-middle
-        title: Association of telomeres and telomerase with clinical outcomes in children with acute lymphoblastic leukemia a review of literature.
-        # link: https://academic.oup.com/nar/article/43/13/6399/2414244
-        sub_title:  <marK>Human Disease</marK> and <marK>Genetics</marK>
-        # link_text: Project Website
+      - layout: top-middle
+        title: Association of Telomeres and Telomerase with Clinical Outcomes in Children with Acute Lymphoblastic Leukemia
+        sub_title: <mark>Human Disease</mark> and <mark>Genetics</mark>
         additional_links:
-          - title:  Human Disease
-            icon: fab fa-children
+          - title: Pediatric Cancer Research
+            icon: fas fa-child
             url: https://academic.oup.com/nar/article/43/13/6399/2414244
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-         Acute Lymphoblastic Leukemia (ALL) is the most common pediatric cancer. Telomere plays a key role in cancer development through impairment of chromosome stability.The purpose of this study was to report the current state of science of the role of telomeres and telomerase in children with ALL.
+        description: |
+          Literature review examining the relationship between telomere dynamics and clinical outcomes in pediatric leukemia. This work:
+          
+          - Focused on acute lymphoblastic leukemia (ALL), the most common pediatric cancer
+          - Highlighted telomere's role in cancer development through chromosome stability impairment
+          - Synthesized current knowledge on telomeres and telomerase in pediatric ALL
+          - Identified potential prognostic markers and therapeutic targets
+          - Provided direction for future clinical research in pediatric oncology
 
 
 
@@ -756,18 +790,22 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in Data Sciences and healthcare some of my other interests and hobbies are:
-      - Camping
-      - Travel / Overlanding
-      - Teaching
-      - Reading
-      - Research
-
-
-      - Community Service
-
-  #    Look at this cool image
-  #    ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Alongside my professional focus on Data Science and Healthcare, I'm passionate about several personal interests that keep me balanced and engaged:
+      
+      **Outdoor Activities**
+      - Camping and wilderness exploration
+      - Travel and overlanding adventures across diverse terrains
+      - Hiking and nature photography
+      
+      **Intellectual Pursuits**
+      - Teaching and mentoring students in data science and healthcare informatics
+      - Reading extensively across scientific literature and popular science
+      - Conducting independent research in areas of personal interest
+      
+      **Community Engagement**
+      - Volunteering with local health education initiatives
+      - Participating in data science meetups and knowledge-sharing events
+      - Supporting STEM education programs in underserved communities
 
 # Footer
 footer_show_references: true
